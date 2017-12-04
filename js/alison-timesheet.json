@@ -1,0 +1,7550 @@
+[
+  {
+    "day_entry": {
+      "id": 606582859,
+      "notes": "",
+      "spent_at": "2017-04-24",
+      "hours": 0.93,
+      "user_id": 1586352,
+      "project_id": 13707747,
+      "task_id": 7077242,
+      "created_at": "2017-04-24T20:32:44Z",
+      "updated_at": "2017-04-24T21:54:46Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 606874067,
+      "notes": "",
+      "spent_at": "2017-04-25",
+      "hours": 0.75,
+      "user_id": 1586352,
+      "project_id": 13707747,
+      "task_id": 7077242,
+      "created_at": "2017-04-25T13:23:21Z",
+      "updated_at": "2017-04-25T14:08:41Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 606944126,
+      "notes": "",
+      "spent_at": "2017-04-25",
+      "hours": 2.95,
+      "user_id": 1586352,
+      "project_id": 13734002,
+      "task_id": 3507664,
+      "created_at": "2017-04-25T14:49:16Z",
+      "updated_at": "2017-04-25T20:59:36Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 607460296,
+      "notes": "",
+      "spent_at": "2017-04-26",
+      "hours": 0.74,
+      "user_id": 1586352,
+      "project_id": 13734002,
+      "task_id": 3507664,
+      "created_at": "2017-04-26T12:52:14Z",
+      "updated_at": "2017-04-26T16:08:59Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 608269905,
+      "notes": "FC hat/bag label",
+      "spent_at": "2017-04-27",
+      "hours": 1.75,
+      "user_id": 1586352,
+      "project_id": 13558376,
+      "task_id": 3507664,
+      "created_at": "2017-04-27T19:06:29Z",
+      "updated_at": "2017-04-27T21:36:12Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 608048078,
+      "notes": "revisions",
+      "spent_at": "2017-04-27",
+      "hours": 1.07,
+      "user_id": 1586352,
+      "project_id": 13734002,
+      "task_id": 3507664,
+      "created_at": "2017-04-27T13:08:51Z",
+      "updated_at": "2017-04-27T14:35:05Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 608622093,
+      "notes": "label, make mockups",
+      "spent_at": "2017-04-28",
+      "hours": 1.58,
+      "user_id": 1586352,
+      "project_id": 13558376,
+      "task_id": 3507664,
+      "created_at": "2017-04-28T12:56:18Z",
+      "updated_at": "2017-04-28T20:56:26Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 608863565,
+      "notes": "package assets",
+      "spent_at": "2017-04-28",
+      "hours": 0.08,
+      "user_id": 1586352,
+      "project_id": 13734002,
+      "task_id": 3507664,
+      "created_at": "2017-04-28T17:59:18Z",
+      "updated_at": "2017-04-28T18:40:25Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 609554906,
+      "notes": "graphs / start InDesign file",
+      "spent_at": "2017-05-01",
+      "hours": 5.82,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-01T15:44:29Z",
+      "updated_at": "2017-05-01T21:55:09Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 609462861,
+      "notes": "FC labels - CEO Council",
+      "spent_at": "2017-05-01",
+      "hours": 1.89,
+      "user_id": 1586352,
+      "project_id": 13796544,
+      "task_id": 3507664,
+      "created_at": "2017-05-01T14:07:43Z",
+      "updated_at": "2017-05-01T21:46:18Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 610120243,
+      "notes": "",
+      "spent_at": "2017-05-02",
+      "hours": 6.17,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-02T12:50:10Z",
+      "updated_at": "2017-05-02T21:31:29Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 610319754,
+      "notes": "",
+      "spent_at": "2017-05-02",
+      "hours": 0.47,
+      "user_id": 1586352,
+      "project_id": 13796544,
+      "task_id": 3507664,
+      "created_at": "2017-05-02T17:05:25Z",
+      "updated_at": "2017-05-02T18:46:42Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 610863757,
+      "notes": "",
+      "spent_at": "2017-05-03",
+      "hours": 1.36,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-03T15:51:57Z",
+      "updated_at": "2017-05-03T21:41:44Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 610925589,
+      "notes": "BarHugo ",
+      "spent_at": "2017-05-03",
+      "hours": 1.67,
+      "user_id": 1586352,
+      "project_id": 13796455,
+      "task_id": 3507664,
+      "created_at": "2017-05-03T17:27:37Z",
+      "updated_at": "2017-05-04T14:14:04Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 611009855,
+      "notes": "Azul - design",
+      "spent_at": "2017-05-03",
+      "hours": 0.17,
+      "user_id": 1586352,
+      "project_id": 13796455,
+      "task_id": 3507664,
+      "created_at": "2017-05-03T20:17:25Z",
+      "updated_at": "2017-05-03T21:57:20Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 612104432,
+      "notes": "",
+      "spent_at": "2017-05-05",
+      "hours": 0.9,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-05T17:46:18Z",
+      "updated_at": "2017-05-05T18:44:32Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 611872994,
+      "notes": "",
+      "spent_at": "2017-05-05",
+      "hours": 0.08,
+      "user_id": 1586352,
+      "project_id": 13796455,
+      "task_id": 3507664,
+      "created_at": "2017-05-05T12:34:19Z",
+      "updated_at": "2017-05-05T12:56:24Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 611905521,
+      "notes": "Summer Party T-Shirt",
+      "spent_at": "2017-05-05",
+      "hours": 2.5,
+      "user_id": 1586352,
+      "project_id": 13796544,
+      "task_id": 3507664,
+      "created_at": "2017-05-05T13:25:40Z",
+      "updated_at": "2017-05-05T20:39:01Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 612687486,
+      "notes": "",
+      "spent_at": "2017-05-08",
+      "hours": 1.87,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-08T12:45:35Z",
+      "updated_at": "2017-05-08T21:04:57Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 612824854,
+      "notes": "",
+      "spent_at": "2017-05-08",
+      "hours": 2.85,
+      "user_id": 1586352,
+      "project_id": 13796544,
+      "task_id": 3507664,
+      "created_at": "2017-05-08T14:59:36Z",
+      "updated_at": "2017-05-08T21:05:01Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 613377917,
+      "notes": "",
+      "spent_at": "2017-05-09",
+      "hours": 1.65,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-09T13:04:09Z",
+      "updated_at": "2017-05-09T20:11:55Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 613377982,
+      "notes": "",
+      "spent_at": "2017-05-09",
+      "hours": 2.14,
+      "user_id": 1586352,
+      "project_id": 13796544,
+      "task_id": 3507664,
+      "created_at": "2017-05-09T13:04:12Z",
+      "updated_at": "2017-05-09T19:38:15Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 613377868,
+      "notes": "",
+      "spent_at": "2017-05-09",
+      "hours": 0.55,
+      "user_id": 1586352,
+      "project_id": 13829240,
+      "task_id": 3507664,
+      "created_at": "2017-05-09T13:04:04Z",
+      "updated_at": "2017-05-09T21:28:51Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 613942002,
+      "notes": "",
+      "spent_at": "2017-05-10",
+      "hours": 0.23,
+      "user_id": 1586352,
+      "project_id": 13829240,
+      "task_id": 3507664,
+      "created_at": "2017-05-10T12:44:00Z",
+      "updated_at": "2017-05-10T13:50:21Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 613942071,
+      "notes": "conference call with Charley / research inspiration / set up document",
+      "spent_at": "2017-05-10",
+      "hours": 2.3,
+      "user_id": 1586352,
+      "project_id": 13881125,
+      "task_id": 3507664,
+      "created_at": "2017-05-10T12:44:08Z",
+      "updated_at": "2017-05-10T20:43:12Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 614055431,
+      "notes": "",
+      "spent_at": "2017-05-10",
+      "hours": 1.83,
+      "user_id": 1586352,
+      "project_id": 13881125,
+      "task_id": 3507664,
+      "created_at": "2017-05-10T15:24:59Z",
+      "updated_at": "2017-05-10T20:43:00Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 614657087,
+      "notes": "",
+      "spent_at": "2017-05-11",
+      "hours": 0.58,
+      "user_id": 1586352,
+      "project_id": 13796544,
+      "task_id": 3507664,
+      "created_at": "2017-05-11T16:19:42Z",
+      "updated_at": "2017-05-11T18:14:03Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 614512984,
+      "notes": "",
+      "spent_at": "2017-05-11",
+      "hours": 0.48,
+      "user_id": 1586352,
+      "project_id": 13829240,
+      "task_id": 3507664,
+      "created_at": "2017-05-11T12:58:33Z",
+      "updated_at": "2017-05-11T13:37:54Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 614512929,
+      "notes": "",
+      "spent_at": "2017-05-11",
+      "hours": 5.62,
+      "user_id": 1586352,
+      "project_id": 13881125,
+      "task_id": 3507664,
+      "created_at": "2017-05-11T12:58:27Z",
+      "updated_at": "2017-05-11T21:47:23Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 615169856,
+      "notes": "",
+      "spent_at": "2017-05-12",
+      "hours": 0.34,
+      "user_id": 1586352,
+      "project_id": 13734002,
+      "task_id": 3507664,
+      "created_at": "2017-05-12T14:27:37Z",
+      "updated_at": "2017-05-12T14:47:59Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 615105703,
+      "notes": "",
+      "spent_at": "2017-05-12",
+      "hours": 0.73,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-12T13:02:19Z",
+      "updated_at": "2017-05-12T16:30:04Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 615105621,
+      "notes": "",
+      "spent_at": "2017-05-12",
+      "hours": 0.19,
+      "user_id": 1586352,
+      "project_id": 13829240,
+      "task_id": 3507664,
+      "created_at": "2017-05-12T13:02:13Z",
+      "updated_at": "2017-05-12T15:17:30Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 615095973,
+      "notes": "",
+      "spent_at": "2017-05-12",
+      "hours": 3.63,
+      "user_id": 1586352,
+      "project_id": 13881125,
+      "task_id": 3507664,
+      "created_at": "2017-05-12T12:45:38Z",
+      "updated_at": "2017-05-12T21:34:52Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 615941777,
+      "notes": "",
+      "spent_at": "2017-05-15",
+      "hours": 1.23,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-15T12:51:54Z",
+      "updated_at": "2017-05-15T20:52:29Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 616330989,
+      "notes": "",
+      "spent_at": "2017-05-15",
+      "hours": 0.5,
+      "user_id": 1586352,
+      "project_id": 13829240,
+      "task_id": 3507664,
+      "created_at": "2017-05-15T20:53:10Z",
+      "updated_at": "2017-05-15T21:23:23Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 616009761,
+      "notes": "",
+      "spent_at": "2017-05-15",
+      "hours": 4.71,
+      "user_id": 1586352,
+      "project_id": 13881125,
+      "task_id": 3507664,
+      "created_at": "2017-05-15T14:00:09Z",
+      "updated_at": "2017-05-15T20:43:18Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 616718813,
+      "notes": "",
+      "spent_at": "2017-05-16",
+      "hours": 5.17,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-16T14:46:44Z",
+      "updated_at": "2017-05-16T21:32:14Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 616718889,
+      "notes": "",
+      "spent_at": "2017-05-16",
+      "hours": 0.15,
+      "user_id": 1586352,
+      "project_id": 13829240,
+      "task_id": 3507664,
+      "created_at": "2017-05-16T14:46:49Z",
+      "updated_at": "2017-05-16T18:09:29Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 616632371,
+      "notes": "",
+      "spent_at": "2017-05-16",
+      "hours": 2.22,
+      "user_id": 1586352,
+      "project_id": 13881125,
+      "task_id": 3507664,
+      "created_at": "2017-05-16T12:52:38Z",
+      "updated_at": "2017-05-16T15:13:25Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 617213760,
+      "notes": "",
+      "spent_at": "2017-05-17",
+      "hours": 4.67,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-17T12:48:04Z",
+      "updated_at": "2017-05-17T21:35:00Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 617213797,
+      "notes": "",
+      "spent_at": "2017-05-17",
+      "hours": 1.03,
+      "user_id": 1586352,
+      "project_id": 13881125,
+      "task_id": 3507664,
+      "created_at": "2017-05-17T12:48:08Z",
+      "updated_at": "2017-05-17T20:00:55Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 617756010,
+      "notes": "",
+      "spent_at": "2017-05-18",
+      "hours": 1.6,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-18T12:43:21Z",
+      "updated_at": "2017-05-18T19:01:04Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 617790111,
+      "notes": "",
+      "spent_at": "2017-05-18",
+      "hours": 1.6,
+      "user_id": 1586352,
+      "project_id": 13829240,
+      "task_id": 3507664,
+      "created_at": "2017-05-18T13:39:01Z",
+      "updated_at": "2017-05-18T21:19:48Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 618322472,
+      "notes": "Food truck menus, gathering assets",
+      "spent_at": "2017-05-19",
+      "hours": 4.17,
+      "user_id": 1586352,
+      "project_id": 13796544,
+      "task_id": 3507664,
+      "created_at": "2017-05-19T12:46:52Z",
+      "updated_at": "2017-05-19T19:57:22Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 618337609,
+      "notes": "",
+      "spent_at": "2017-05-19",
+      "hours": 0.35,
+      "user_id": 1586352,
+      "project_id": 13829240,
+      "task_id": 3507664,
+      "created_at": "2017-05-19T13:09:31Z",
+      "updated_at": "2017-05-19T19:57:15Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 619448715,
+      "notes": "",
+      "spent_at": "2017-05-22",
+      "hours": 1.57,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-22T19:31:43Z",
+      "updated_at": "2017-05-22T21:06:47Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 619130241,
+      "notes": "summer party trash bin icons",
+      "spent_at": "2017-05-22",
+      "hours": 0.73,
+      "user_id": 1586352,
+      "project_id": 13796544,
+      "task_id": 3507664,
+      "created_at": "2017-05-22T12:47:13Z",
+      "updated_at": "2017-05-22T19:27:20Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 619271264,
+      "notes": "",
+      "spent_at": "2017-05-22",
+      "hours": 1.22,
+      "user_id": 1586352,
+      "project_id": 13881125,
+      "task_id": 3507664,
+      "created_at": "2017-05-22T15:14:43Z",
+      "updated_at": "2017-05-22T15:48:13Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 619814088,
+      "notes": "",
+      "spent_at": "2017-05-23",
+      "hours": 2.53,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-23T13:35:56Z",
+      "updated_at": "2017-05-23T21:27:50Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 620014839,
+      "notes": "",
+      "spent_at": "2017-05-23",
+      "hours": 0.27,
+      "user_id": 1586352,
+      "project_id": 13796544,
+      "task_id": 3507664,
+      "created_at": "2017-05-23T18:12:29Z",
+      "updated_at": "2017-05-23T18:28:37Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 619999578,
+      "notes": "",
+      "spent_at": "2017-05-23",
+      "hours": 0.33,
+      "user_id": 1586352,
+      "project_id": 13829240,
+      "task_id": 3507664,
+      "created_at": "2017-05-23T17:44:57Z",
+      "updated_at": "2017-05-23T18:52:52Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 620398922,
+      "notes": "",
+      "spent_at": "2017-05-24",
+      "hours": 1.29,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-24T13:26:49Z",
+      "updated_at": "2017-05-24T15:28:56Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 620503646,
+      "notes": "",
+      "spent_at": "2017-05-24",
+      "hours": 4.26,
+      "user_id": 1586352,
+      "project_id": 13992750,
+      "task_id": 3507664,
+      "created_at": "2017-05-24T15:44:11Z",
+      "updated_at": "2017-05-24T21:05:09Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 620929712,
+      "notes": "",
+      "spent_at": "2017-05-25",
+      "hours": 1.84,
+      "user_id": 1586352,
+      "project_id": 13992750,
+      "task_id": 3507664,
+      "created_at": "2017-05-25T13:00:17Z",
+      "updated_at": "2017-05-25T20:04:08Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 621573357,
+      "notes": "icons",
+      "spent_at": "2017-05-26",
+      "hours": 0.18,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-26T13:42:44Z",
+      "updated_at": "2017-05-26T13:53:43Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 622934924,
+      "notes": "",
+      "spent_at": "2017-05-30",
+      "hours": 2.27,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-30T14:50:31Z",
+      "updated_at": "2017-05-30T20:31:16Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 622983759,
+      "notes": "T-Shirt revision",
+      "spent_at": "2017-05-30",
+      "hours": 1.58,
+      "user_id": 1586352,
+      "project_id": 13796544,
+      "task_id": 3507664,
+      "created_at": "2017-05-30T15:30:24Z",
+      "updated_at": "2017-05-30T21:48:51Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 622869520,
+      "notes": "",
+      "spent_at": "2017-05-30",
+      "hours": 0.38,
+      "user_id": 1586352,
+      "project_id": 13992750,
+      "task_id": 3507664,
+      "created_at": "2017-05-30T13:48:12Z",
+      "updated_at": "2017-05-30T15:19:19Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 623677769,
+      "notes": "",
+      "spent_at": "2017-05-31",
+      "hours": 0.59,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-05-31T14:15:01Z",
+      "updated_at": "2017-05-31T15:24:15Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 623606774,
+      "notes": "",
+      "spent_at": "2017-05-31",
+      "hours": 0.17,
+      "user_id": 1586352,
+      "project_id": 13992750,
+      "task_id": 3507664,
+      "created_at": "2017-05-31T12:49:49Z",
+      "updated_at": "2017-05-31T12:55:41Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 623788066,
+      "notes": "",
+      "spent_at": "2017-05-31",
+      "hours": 2.47,
+      "user_id": 1586352,
+      "project_id": 14069037,
+      "task_id": 3507664,
+      "created_at": "2017-05-31T15:57:19Z",
+      "updated_at": "2017-05-31T19:38:32Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 624534710,
+      "notes": "",
+      "spent_at": "2017-06-01",
+      "hours": 0.58,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-06-01T15:36:56Z",
+      "updated_at": "2017-06-01T17:14:13Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 624403113,
+      "notes": "Peerspace Credit Voucher",
+      "spent_at": "2017-06-01",
+      "hours": 1.01,
+      "user_id": 1586352,
+      "project_id": 13796544,
+      "task_id": 3507664,
+      "created_at": "2017-06-01T13:07:43Z",
+      "updated_at": "2017-06-01T14:32:21Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 624458180,
+      "notes": "",
+      "spent_at": "2017-06-01",
+      "hours": 2.43,
+      "user_id": 1586352,
+      "project_id": 14069037,
+      "task_id": 3507664,
+      "created_at": "2017-06-01T14:14:25Z",
+      "updated_at": "2017-06-01T21:35:07Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 625076248,
+      "notes": "",
+      "spent_at": "2017-06-02",
+      "hours": 2.41,
+      "user_id": 1586352,
+      "project_id": 14095579,
+      "task_id": 3507664,
+      "created_at": "2017-06-02T13:46:35Z",
+      "updated_at": "2017-06-02T17:06:11Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 625855286,
+      "notes": "image sourcing",
+      "spent_at": "2017-06-05",
+      "hours": 1.28,
+      "user_id": 1586352,
+      "project_id": 14095579,
+      "task_id": 3507664,
+      "created_at": "2017-06-05T13:37:06Z",
+      "updated_at": "2017-06-05T16:55:07Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 626498881,
+      "notes": "",
+      "spent_at": "2017-06-06",
+      "hours": 0.62,
+      "user_id": 1586352,
+      "project_id": 13743289,
+      "task_id": 3507664,
+      "created_at": "2017-06-06T13:00:28Z",
+      "updated_at": "2017-06-06T14:26:02Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 626689542,
+      "notes": "",
+      "spent_at": "2017-06-06",
+      "hours": 1.04,
+      "user_id": 1586352,
+      "project_id": 14138504,
+      "task_id": 3507664,
+      "created_at": "2017-06-06T17:12:54Z",
+      "updated_at": "2017-06-06T19:10:05Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 626795677,
+      "notes": "wireframe",
+      "spent_at": "2017-06-06",
+      "hours": 0.73,
+      "user_id": 1586352,
+      "project_id": 14138504,
+      "task_id": 3507664,
+      "created_at": "2017-06-06T19:34:05Z",
+      "updated_at": "2017-06-06T20:03:08Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 626795466,
+      "notes": "",
+      "spent_at": "2017-06-06",
+      "hours": 1.27,
+      "user_id": 1586352,
+      "project_id": 14140461,
+      "task_id": 3507664,
+      "created_at": "2017-06-06T19:33:52Z",
+      "updated_at": "2017-06-06T21:24:57Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 627404159,
+      "notes": "image sourcing",
+      "spent_at": "2017-06-07",
+      "hours": 2.02,
+      "user_id": 1586352,
+      "project_id": 13525555,
+      "task_id": 3507664,
+      "created_at": "2017-06-07T18:26:52Z",
+      "updated_at": "2017-06-08T19:07:00Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 627130592,
+      "notes": "logo design, logo presentation, make mockup, write up reasoning for each logo",
+      "spent_at": "2017-06-07",
+      "hours": 3.79,
+      "user_id": 1586352,
+      "project_id": 14138504,
+      "task_id": 3507664,
+      "created_at": "2017-06-07T12:41:40Z",
+      "updated_at": "2017-06-07T17:53:23Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 627773673,
+      "notes": "image sourcing",
+      "spent_at": "2017-06-08",
+      "hours": 0.38,
+      "user_id": 1586352,
+      "project_id": 13525555,
+      "task_id": 3507664,
+      "created_at": "2017-06-08T13:32:17Z",
+      "updated_at": "2017-06-08T19:06:54Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 628007805,
+      "notes": "typography moodboard",
+      "spent_at": "2017-06-08",
+      "hours": 1.44,
+      "user_id": 1586352,
+      "project_id": 13525555,
+      "task_id": 3507664,
+      "created_at": "2017-06-08T19:43:48Z",
+      "updated_at": "2017-06-08T21:10:25Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 627970378,
+      "notes": "google hangout call",
+      "spent_at": "2017-06-08",
+      "hours": 0.57,
+      "user_id": 1586352,
+      "project_id": 14522234,
+      "task_id": 3507664,
+      "created_at": "2017-06-08T18:27:26Z",
+      "updated_at": "2017-07-20T16:01:13Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 628653572,
+      "notes": "typography",
+      "spent_at": "2017-06-09",
+      "hours": 0.12,
+      "user_id": 1586352,
+      "project_id": 13525555,
+      "task_id": 3507664,
+      "created_at": "2017-06-09T20:56:03Z",
+      "updated_at": "2017-06-09T21:01:08Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 628373065,
+      "notes": "",
+      "spent_at": "2017-06-09",
+      "hours": 0.96,
+      "user_id": 1586352,
+      "project_id": 14158117,
+      "task_id": 3507664,
+      "created_at": "2017-06-09T14:00:28Z",
+      "updated_at": "2017-06-09T20:08:26Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 628501746,
+      "notes": "",
+      "spent_at": "2017-06-09",
+      "hours": 0.85,
+      "user_id": 1586352,
+      "project_id": 14163647,
+      "task_id": 3507664,
+      "created_at": "2017-06-09T16:34:06Z",
+      "updated_at": "2017-06-09T19:07:36Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 629158693,
+      "notes": "",
+      "spent_at": "2017-06-12",
+      "hours": 0.13,
+      "user_id": 1586352,
+      "project_id": 14158117,
+      "task_id": 3507664,
+      "created_at": "2017-06-12T13:49:41Z",
+      "updated_at": "2017-06-12T13:57:34Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 629393062,
+      "notes": "",
+      "spent_at": "2017-06-12",
+      "hours": 0.21,
+      "user_id": 1586352,
+      "project_id": 14163647,
+      "task_id": 3507664,
+      "created_at": "2017-06-12T18:09:47Z",
+      "updated_at": "2017-06-12T21:22:44Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 630040068,
+      "notes": "donation card",
+      "spent_at": "2017-06-13",
+      "hours": 0.97,
+      "user_id": 1586352,
+      "project_id": 14138504,
+      "task_id": 3507664,
+      "created_at": "2017-06-13T19:08:39Z",
+      "updated_at": "2017-06-13T21:09:29Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 629859086,
+      "notes": "",
+      "spent_at": "2017-06-13",
+      "hours": 1.65,
+      "user_id": 1586352,
+      "project_id": 14158117,
+      "task_id": 3507664,
+      "created_at": "2017-06-13T14:28:30Z",
+      "updated_at": "2017-06-13T20:35:09Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 629793864,
+      "notes": "",
+      "spent_at": "2017-06-13",
+      "hours": 0.43,
+      "user_id": 1586352,
+      "project_id": 14163647,
+      "task_id": 3507664,
+      "created_at": "2017-06-13T13:03:15Z",
+      "updated_at": "2017-06-13T18:02:12Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 630380355,
+      "notes": "donation card, welcome sign, place cards",
+      "spent_at": "2017-06-14",
+      "hours": 2.21,
+      "user_id": 1586352,
+      "project_id": 14138504,
+      "task_id": 3507664,
+      "created_at": "2017-06-14T13:05:26Z",
+      "updated_at": "2017-06-14T15:24:35Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 630584641,
+      "notes": "",
+      "spent_at": "2017-06-14",
+      "hours": 0.18,
+      "user_id": 1586352,
+      "project_id": 14163647,
+      "task_id": 3507664,
+      "created_at": "2017-06-14T18:15:02Z",
+      "updated_at": "2017-06-14T21:06:31Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 630495604,
+      "notes": "",
+      "spent_at": "2017-06-14",
+      "hours": 2.65,
+      "user_id": 1586352,
+      "project_id": 14197085,
+      "task_id": 3507664,
+      "created_at": "2017-06-14T15:43:11Z",
+      "updated_at": "2017-06-14T20:11:12Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 630640883,
+      "notes": "call with copywriter / talking to Charley",
+      "spent_at": "2017-06-14",
+      "hours": 0.25,
+      "user_id": 1586352,
+      "project_id": 14522234,
+      "task_id": 3507664,
+      "created_at": "2017-06-14T20:04:12Z",
+      "updated_at": "2017-07-20T16:01:24Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 631011553,
+      "notes": "",
+      "spent_at": "2017-06-15",
+      "hours": 0.45,
+      "user_id": 1586352,
+      "project_id": 14112874,
+      "task_id": 3507664,
+      "created_at": "2017-06-15T14:07:45Z",
+      "updated_at": "2017-06-15T21:38:34Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 631042215,
+      "notes": "swag design / mockups / revisions from Lisa",
+      "spent_at": "2017-06-15",
+      "hours": 2.65,
+      "user_id": 1586352,
+      "project_id": 14138504,
+      "task_id": 3507664,
+      "created_at": "2017-06-15T14:51:10Z",
+      "updated_at": "2017-06-15T21:27:46Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 631221494,
+      "notes": "",
+      "spent_at": "2017-06-15",
+      "hours": 2.28,
+      "user_id": 1586352,
+      "project_id": 14197085,
+      "task_id": 3507664,
+      "created_at": "2017-06-15T19:43:05Z",
+      "updated_at": "2017-06-15T21:34:47Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 631550593,
+      "notes": "Gen X wireframe",
+      "spent_at": "2017-06-16",
+      "hours": 0,
+      "user_id": 1586352,
+      "project_id": 13974974,
+      "task_id": 3507664,
+      "created_at": "2017-06-16T13:33:31Z",
+      "updated_at": "2017-06-16T13:33:33Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 631537722,
+      "notes": "",
+      "spent_at": "2017-06-16",
+      "hours": 0.65,
+      "user_id": 1586352,
+      "project_id": 14112874,
+      "task_id": 3507664,
+      "created_at": "2017-06-16T13:14:35Z",
+      "updated_at": "2017-06-16T16:01:39Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 631550508,
+      "notes": "Menu",
+      "spent_at": "2017-06-16",
+      "hours": 1.45,
+      "user_id": 1586352,
+      "project_id": 14138504,
+      "task_id": 3507664,
+      "created_at": "2017-06-16T13:33:22Z",
+      "updated_at": "2017-06-16T18:14:56Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 631752007,
+      "notes": "",
+      "spent_at": "2017-06-16",
+      "hours": 2.35,
+      "user_id": 1586352,
+      "project_id": 14226457,
+      "task_id": 3507664,
+      "created_at": "2017-06-16T18:15:05Z",
+      "updated_at": "2017-06-16T20:35:47Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 632601777,
+      "notes": "",
+      "spent_at": "2017-06-19",
+      "hours": 0.08,
+      "user_id": 1586352,
+      "project_id": 14112874,
+      "task_id": 3507664,
+      "created_at": "2017-06-19T18:04:29Z",
+      "updated_at": "2017-06-19T18:04:29Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 632322369,
+      "notes": "",
+      "spent_at": "2017-06-19",
+      "hours": 1.95,
+      "user_id": 1586352,
+      "project_id": 14197085,
+      "task_id": 3507664,
+      "created_at": "2017-06-19T12:59:56Z",
+      "updated_at": "2017-06-19T16:17:52Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 632322449,
+      "notes": "",
+      "spent_at": "2017-06-19",
+      "hours": 0.94,
+      "user_id": 1586352,
+      "project_id": 14226457,
+      "task_id": 3507664,
+      "created_at": "2017-06-19T13:00:00Z",
+      "updated_at": "2017-06-19T15:15:55Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 632649909,
+      "notes": "",
+      "spent_at": "2017-06-19",
+      "hours": 0.92,
+      "user_id": 1586352,
+      "project_id": 14226457,
+      "task_id": 3507664,
+      "created_at": "2017-06-19T19:27:44Z",
+      "updated_at": "2017-06-19T20:47:27Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 632620636,
+      "notes": "",
+      "spent_at": "2017-06-19",
+      "hours": 1.67,
+      "user_id": 1586352,
+      "project_id": 14241959,
+      "task_id": 7077242,
+      "created_at": "2017-06-19T18:36:16Z",
+      "updated_at": "2017-06-19T20:57:01Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 632711218,
+      "notes": "",
+      "spent_at": "2017-06-19",
+      "hours": 0.15,
+      "user_id": 1586352,
+      "project_id": 14242732,
+      "task_id": 7077242,
+      "created_at": "2017-06-19T20:56:53Z",
+      "updated_at": "2017-06-19T21:00:19Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 632719053,
+      "notes": "",
+      "spent_at": "2017-06-19",
+      "hours": 0.1,
+      "user_id": 1586352,
+      "project_id": 14243909,
+      "task_id": 3507664,
+      "created_at": "2017-06-19T21:10:04Z",
+      "updated_at": "2017-06-19T21:12:38Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 633247482,
+      "notes": "",
+      "spent_at": "2017-06-20",
+      "hours": 1.65,
+      "user_id": 1586352,
+      "project_id": 14138504,
+      "task_id": 3507664,
+      "created_at": "2017-06-20T17:45:22Z",
+      "updated_at": "2017-06-20T20:43:42Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 633032551,
+      "notes": "",
+      "spent_at": "2017-06-20",
+      "hours": 1.18,
+      "user_id": 1586352,
+      "project_id": 14197085,
+      "task_id": 3507664,
+      "created_at": "2017-06-20T13:08:54Z",
+      "updated_at": "2017-06-20T20:48:28Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 633032446,
+      "notes": "",
+      "spent_at": "2017-06-20",
+      "hours": 0.94,
+      "user_id": 1586352,
+      "project_id": 14226457,
+      "task_id": 3507664,
+      "created_at": "2017-06-20T13:08:46Z",
+      "updated_at": "2017-06-20T21:19:13Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 633032638,
+      "notes": "",
+      "spent_at": "2017-06-20",
+      "hours": 1.77,
+      "user_id": 1586352,
+      "project_id": 14242732,
+      "task_id": 7077242,
+      "created_at": "2017-06-20T13:08:59Z",
+      "updated_at": "2017-06-20T21:08:52Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 633032504,
+      "notes": "",
+      "spent_at": "2017-06-20",
+      "hours": 1.19,
+      "user_id": 1586352,
+      "project_id": 14243909,
+      "task_id": 3507664,
+      "created_at": "2017-06-20T13:08:50Z",
+      "updated_at": "2017-06-20T20:44:08Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 633896454,
+      "notes": "",
+      "spent_at": "2017-06-21",
+      "hours": 0.35,
+      "user_id": 1586352,
+      "project_id": 14138504,
+      "task_id": 3507664,
+      "created_at": "2017-06-21T17:45:32Z",
+      "updated_at": "2017-06-21T18:09:51Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 633698178,
+      "notes": "",
+      "spent_at": "2017-06-21",
+      "hours": 0.68,
+      "user_id": 1586352,
+      "project_id": 14197085,
+      "task_id": 3507664,
+      "created_at": "2017-06-21T12:54:07Z",
+      "updated_at": "2017-06-21T13:38:19Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 633728241,
+      "notes": "",
+      "spent_at": "2017-06-21",
+      "hours": 0.94,
+      "user_id": 1586352,
+      "project_id": 14243909,
+      "task_id": 3507664,
+      "created_at": "2017-06-21T13:38:25Z",
+      "updated_at": "2017-06-21T20:55:25Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 633775175,
+      "notes": "",
+      "spent_at": "2017-06-21",
+      "hours": 4.04,
+      "user_id": 1586352,
+      "project_id": 14257732,
+      "task_id": 3507664,
+      "created_at": "2017-06-21T14:40:39Z",
+      "updated_at": "2017-06-21T20:36:03Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 634668494,
+      "notes": "",
+      "spent_at": "2017-06-22",
+      "hours": 2,
+      "user_id": 1586352,
+      "project_id": 14197085,
+      "task_id": 3507664,
+      "created_at": "2017-06-22T19:21:49Z",
+      "updated_at": "2017-06-22T21:22:38Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 634386423,
+      "notes": "",
+      "spent_at": "2017-06-22",
+      "hours": 0.25,
+      "user_id": 1586352,
+      "project_id": 14243909,
+      "task_id": 3507664,
+      "created_at": "2017-06-22T12:47:35Z",
+      "updated_at": "2017-06-22T18:00:40Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 634386609,
+      "notes": "",
+      "spent_at": "2017-06-22",
+      "hours": 2.18,
+      "user_id": 1586352,
+      "project_id": 14257732,
+      "task_id": 3507664,
+      "created_at": "2017-06-22T12:47:50Z",
+      "updated_at": "2017-06-22T16:20:41Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 634980904,
+      "notes": "",
+      "spent_at": "2017-06-23",
+      "hours": 1.18,
+      "user_id": 1586352,
+      "project_id": 14197085,
+      "task_id": 3507664,
+      "created_at": "2017-06-23T12:45:07Z",
+      "updated_at": "2017-06-23T21:48:59Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 635148784,
+      "notes": "",
+      "spent_at": "2017-06-23",
+      "hours": 0.06,
+      "user_id": 1586352,
+      "project_id": 14243909,
+      "task_id": 3507664,
+      "created_at": "2017-06-23T16:00:31Z",
+      "updated_at": "2017-06-23T16:03:55Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 635193826,
+      "notes": "",
+      "spent_at": "2017-06-23",
+      "hours": 2.07,
+      "user_id": 1586352,
+      "project_id": 14285820,
+      "task_id": 3507664,
+      "created_at": "2017-06-23T17:07:02Z",
+      "updated_at": "2017-06-23T21:10:25Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 635079036,
+      "notes": "come up with a \"lighter\" version of Lisa's wireframe",
+      "spent_at": "2017-06-23",
+      "hours": 2.87,
+      "user_id": 1586352,
+      "project_id": 14522234,
+      "task_id": 3507664,
+      "created_at": "2017-06-23T14:34:44Z",
+      "updated_at": "2017-07-20T16:01:47Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 635986628,
+      "notes": "",
+      "spent_at": "2017-06-26",
+      "hours": 0.25,
+      "user_id": 1586352,
+      "project_id": 14138504,
+      "task_id": 3507664,
+      "created_at": "2017-06-26T16:12:47Z",
+      "updated_at": "2017-06-26T16:24:08Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 635785606,
+      "notes": "",
+      "spent_at": "2017-06-26",
+      "hours": 1.8,
+      "user_id": 1586352,
+      "project_id": 14522234,
+      "task_id": 3507664,
+      "created_at": "2017-06-26T12:55:03Z",
+      "updated_at": "2017-07-20T16:02:00Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 636102010,
+      "notes": "",
+      "spent_at": "2017-06-26",
+      "hours": 3.15,
+      "user_id": 1586352,
+      "project_id": 14522234,
+      "task_id": 3507664,
+      "created_at": "2017-06-26T19:00:16Z",
+      "updated_at": "2017-07-20T16:02:19Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 636489038,
+      "notes": "packaging files",
+      "spent_at": "2017-06-27",
+      "hours": 0.3,
+      "user_id": 1586352,
+      "project_id": 14243909,
+      "task_id": 3507664,
+      "created_at": "2017-06-27T12:52:31Z",
+      "updated_at": "2017-06-27T13:05:34Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 636897749,
+      "notes": "",
+      "spent_at": "2017-06-27",
+      "hours": 0.29,
+      "user_id": 1586352,
+      "project_id": 14285820,
+      "task_id": 3507664,
+      "created_at": "2017-06-27T21:07:54Z",
+      "updated_at": "2017-06-27T21:25:28Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 636526666,
+      "notes": "",
+      "spent_at": "2017-06-27",
+      "hours": 2.38,
+      "user_id": 1586352,
+      "project_id": 14308407,
+      "task_id": 3507664,
+      "created_at": "2017-06-27T13:20:49Z",
+      "updated_at": "2017-06-27T18:21:20Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 636897575,
+      "notes": "",
+      "spent_at": "2017-06-27",
+      "hours": 0.5,
+      "user_id": 1586352,
+      "project_id": 14522234,
+      "task_id": 3507664,
+      "created_at": "2017-06-27T21:07:35Z",
+      "updated_at": "2017-07-20T16:02:27Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 637361422,
+      "notes": "",
+      "spent_at": "2017-06-28",
+      "hours": 1.7,
+      "user_id": 1586352,
+      "project_id": 14307664,
+      "task_id": 7077242,
+      "created_at": "2017-06-28T16:36:09Z",
+      "updated_at": "2017-06-28T21:05:51Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 637431267,
+      "notes": "",
+      "spent_at": "2017-06-28",
+      "hours": 1.97,
+      "user_id": 1586352,
+      "project_id": 14329778,
+      "task_id": 7077242,
+      "created_at": "2017-06-28T18:43:07Z",
+      "updated_at": "2017-06-28T21:05:56Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 637252194,
+      "notes": "Set up Google doc with copy for Netta and Julia to follow the book layout",
+      "spent_at": "2017-06-28",
+      "hours": 1.4,
+      "user_id": 1586352,
+      "project_id": 14522234,
+      "task_id": 3507664,
+      "created_at": "2017-06-28T14:09:04Z",
+      "updated_at": "2017-07-20T16:02:36Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 637796008,
+      "notes": "",
+      "spent_at": "2017-06-29",
+      "hours": 0.31,
+      "user_id": 1586352,
+      "project_id": 14285820,
+      "task_id": 3507664,
+      "created_at": "2017-06-29T13:08:41Z",
+      "updated_at": "2017-06-29T14:38:32Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 637911202,
+      "notes": "",
+      "spent_at": "2017-06-29",
+      "hours": 0.92,
+      "user_id": 1586352,
+      "project_id": 14307664,
+      "task_id": 7077172,
+      "created_at": "2017-06-29T15:34:55Z",
+      "updated_at": "2017-06-29T16:30:19Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 637834881,
+      "notes": "",
+      "spent_at": "2017-06-29",
+      "hours": 4.08,
+      "user_id": 1586352,
+      "project_id": 14318490,
+      "task_id": 3507664,
+      "created_at": "2017-06-29T14:01:50Z",
+      "updated_at": "2017-06-29T21:25:26Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 638013725,
+      "notes": "",
+      "spent_at": "2017-06-29",
+      "hours": 1.25,
+      "user_id": 1586352,
+      "project_id": 14329778,
+      "task_id": 7077242,
+      "created_at": "2017-06-29T18:06:02Z",
+      "updated_at": "2017-06-29T19:12:30Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 638741436,
+      "notes": "",
+      "spent_at": "2017-06-30",
+      "hours": 0.62,
+      "user_id": 1586352,
+      "project_id": 14307664,
+      "task_id": 7077242,
+      "created_at": "2017-06-30T17:03:14Z",
+      "updated_at": "2017-06-30T18:13:04Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 638505810,
+      "notes": "",
+      "spent_at": "2017-06-30",
+      "hours": 1.67,
+      "user_id": 1586352,
+      "project_id": 14318490,
+      "task_id": 3507664,
+      "created_at": "2017-06-30T13:00:56Z",
+      "updated_at": "2017-06-30T14:41:21Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 640565878,
+      "notes": "package final files",
+      "spent_at": "2017-07-05",
+      "hours": 0.78,
+      "user_id": 1586352,
+      "project_id": 14307664,
+      "task_id": 7077242,
+      "created_at": "2017-07-05T17:47:31Z",
+      "updated_at": "2017-07-05T18:35:02Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 641567461,
+      "notes": "build Splash page",
+      "spent_at": "2017-07-07",
+      "hours": 4.04,
+      "user_id": 1586352,
+      "project_id": 14318490,
+      "task_id": 3507664,
+      "created_at": "2017-07-07T12:58:33Z",
+      "updated_at": "2017-07-07T20:55:24Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 641660492,
+      "notes": "",
+      "spent_at": "2017-07-07",
+      "hours": 0.42,
+      "user_id": 1586352,
+      "project_id": 14417620,
+      "task_id": 7077242,
+      "created_at": "2017-07-07T14:50:42Z",
+      "updated_at": "2017-07-10T13:18:55Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 642353862,
+      "notes": "",
+      "spent_at": "2017-07-10",
+      "hours": 0.17,
+      "user_id": 1586352,
+      "project_id": 14318490,
+      "task_id": 3507664,
+      "created_at": "2017-07-10T12:45:57Z",
+      "updated_at": "2017-07-10T14:53:16Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 642377030,
+      "notes": "",
+      "spent_at": "2017-07-10",
+      "hours": 0.58,
+      "user_id": 1586352,
+      "project_id": 14318514,
+      "task_id": 3507664,
+      "created_at": "2017-07-10T13:13:59Z",
+      "updated_at": "2017-07-10T20:08:45Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 642377089,
+      "notes": "",
+      "spent_at": "2017-07-10",
+      "hours": 1.51,
+      "user_id": 1586352,
+      "project_id": 14318527,
+      "task_id": 3507664,
+      "created_at": "2017-07-10T13:14:03Z",
+      "updated_at": "2017-07-10T20:54:31Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 643040173,
+      "notes": "",
+      "spent_at": "2017-07-11",
+      "hours": 0.62,
+      "user_id": 1586352,
+      "project_id": 14318514,
+      "task_id": 3507664,
+      "created_at": "2017-07-11T13:34:39Z",
+      "updated_at": "2017-07-11T15:36:52Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 643039989,
+      "notes": "",
+      "spent_at": "2017-07-11",
+      "hours": 2.37,
+      "user_id": 1586352,
+      "project_id": 14318527,
+      "task_id": 3507664,
+      "created_at": "2017-07-11T13:34:22Z",
+      "updated_at": "2017-07-11T21:27:40Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 643255534,
+      "notes": "guest list",
+      "spent_at": "2017-07-11",
+      "hours": 0.95,
+      "user_id": 1586352,
+      "project_id": 14445882,
+      "task_id": 3507664,
+      "created_at": "2017-07-11T19:06:25Z",
+      "updated_at": "2017-07-11T20:47:08Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 643559138,
+      "notes": "",
+      "spent_at": "2017-07-12",
+      "hours": 0.18,
+      "user_id": 1586352,
+      "project_id": 14318527,
+      "task_id": 3507664,
+      "created_at": "2017-07-12T12:39:16Z",
+      "updated_at": "2017-07-12T15:58:41Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 643674985,
+      "notes": "Key Card design ",
+      "spent_at": "2017-07-12",
+      "hours": 2.28,
+      "user_id": 1586352,
+      "project_id": 14443233,
+      "task_id": 7077242,
+      "created_at": "2017-07-12T15:30:53Z",
+      "updated_at": "2017-07-12T20:41:29Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 644118580,
+      "notes": "",
+      "spent_at": "2017-07-13",
+      "hours": 0.3,
+      "user_id": 1586352,
+      "project_id": 14318527,
+      "task_id": 3507664,
+      "created_at": "2017-07-13T12:57:26Z",
+      "updated_at": "2017-07-13T20:30:47Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 644201612,
+      "notes": "",
+      "spent_at": "2017-07-13",
+      "hours": 0.67,
+      "user_id": 1586352,
+      "project_id": 14443233,
+      "task_id": 7077242,
+      "created_at": "2017-07-13T14:56:09Z",
+      "updated_at": "2017-07-13T20:30:34Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 644118537,
+      "notes": "guest list, reconfigure donation card, lay out place cards",
+      "spent_at": "2017-07-13",
+      "hours": 3.4,
+      "user_id": 1586352,
+      "project_id": 14445882,
+      "task_id": 3507664,
+      "created_at": "2017-07-13T12:57:20Z",
+      "updated_at": "2017-07-13T20:47:31Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 644667978,
+      "notes": "",
+      "spent_at": "2017-07-14",
+      "hours": 2.45,
+      "user_id": 1586352,
+      "project_id": 14443233,
+      "task_id": 7077242,
+      "created_at": "2017-07-14T13:02:20Z",
+      "updated_at": "2017-07-14T20:13:00Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 644770225,
+      "notes": "",
+      "spent_at": "2017-07-14",
+      "hours": 0.2,
+      "user_id": 1586352,
+      "project_id": 14445882,
+      "task_id": 3507664,
+      "created_at": "2017-07-14T15:03:09Z",
+      "updated_at": "2017-07-14T15:15:21Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 645493009,
+      "notes": "call with John ",
+      "spent_at": "2017-07-17",
+      "hours": 0.75,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-17T13:28:34Z",
+      "updated_at": "2017-07-17T15:25:25Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 645608359,
+      "notes": "discuss details of project with Lisa, Christa, David, and Patrick after call with John",
+      "spent_at": "2017-07-17",
+      "hours": 0.32,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-17T15:25:50Z",
+      "updated_at": "2017-07-17T15:28:58Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 645614754,
+      "notes": "image sourcing - gathering more specific videos and imagery for the LP / discussing options with Lisa, adding images to direct mail gift sheet",
+      "spent_at": "2017-07-17",
+      "hours": 1.07,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-17T15:32:17Z",
+      "updated_at": "2017-07-17T16:42:52Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 645801505,
+      "notes": "color palette, typography",
+      "spent_at": "2017-07-17",
+      "hours": 1.02,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-17T20:14:37Z",
+      "updated_at": "2017-07-17T21:15:37Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 645472581,
+      "notes": "",
+      "spent_at": "2017-07-17",
+      "hours": 0.55,
+      "user_id": 1586352,
+      "project_id": 14443233,
+      "task_id": 7077242,
+      "created_at": "2017-07-17T13:05:41Z",
+      "updated_at": "2017-07-17T15:29:07Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 645472741,
+      "notes": "",
+      "spent_at": "2017-07-17",
+      "hours": 0.65,
+      "user_id": 1586352,
+      "project_id": 14445882,
+      "task_id": 3507664,
+      "created_at": "2017-07-17T13:05:52Z",
+      "updated_at": "2017-07-17T19:23:41Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 646088930,
+      "notes": "LP design, picking images for LP, creating stamped design element, choosing typography ",
+      "spent_at": "2017-07-18",
+      "hours": 5.92,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-18T12:32:33Z",
+      "updated_at": "2017-07-18T20:08:01Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 646095256,
+      "notes": "",
+      "spent_at": "2017-07-18",
+      "hours": 0.27,
+      "user_id": 1586352,
+      "project_id": 14445882,
+      "task_id": 3507664,
+      "created_at": "2017-07-18T12:45:03Z",
+      "updated_at": "2017-07-18T19:50:42Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 646678298,
+      "notes": "update Scotland stamp design",
+      "spent_at": "2017-07-19",
+      "hours": 0.22,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-19T13:08:04Z",
+      "updated_at": "2017-07-19T17:17:57Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 646851237,
+      "notes": "build wireframe in Photoshop",
+      "spent_at": "2017-07-19",
+      "hours": 1.95,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-19T17:17:57Z",
+      "updated_at": "2017-07-19T21:30:14Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 646678386,
+      "notes": "reconstruct hotel banner to actual size, prep next round of revisions for reception banner (extended time due to computer lag - large file 120in x 462in)",
+      "spent_at": "2017-07-19",
+      "hours": 3.79,
+      "user_id": 1586352,
+      "project_id": 14443233,
+      "task_id": 7077242,
+      "created_at": "2017-07-19T13:08:09Z",
+      "updated_at": "2017-07-19T20:43:07Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 647214352,
+      "notes": "design, discuss site design with Lisa and Patrick, download approved images from Shutterstock, discuss email template with Lisa, find hero image for email (generic travel), source images",
+      "spent_at": "2017-07-20",
+      "hours": 6.4,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-20T13:04:15Z",
+      "updated_at": "2017-07-20T21:09:01Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 647423094,
+      "notes": "",
+      "spent_at": "2017-07-20",
+      "hours": 0.5,
+      "user_id": 1586352,
+      "project_id": 14445882,
+      "task_id": 3507664,
+      "created_at": "2017-07-20T18:41:17Z",
+      "updated_at": "2017-07-20T19:45:24Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 648546047,
+      "notes": "design revisions, image sequence presentation, email wireframe revisions, New Business Service Contracts \"sticker,\" export assets from design ",
+      "spent_at": "2017-07-24",
+      "hours": 2.54,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-24T12:50:14Z",
+      "updated_at": "2017-07-24T18:39:59Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 648794670,
+      "notes": "",
+      "spent_at": "2017-07-24",
+      "hours": 0.52,
+      "user_id": 1586352,
+      "project_id": 14417620,
+      "task_id": 7077242,
+      "created_at": "2017-07-24T16:57:24Z",
+      "updated_at": "2017-07-24T19:04:26Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 648887149,
+      "notes": "",
+      "spent_at": "2017-07-24",
+      "hours": 1.32,
+      "user_id": 1586352,
+      "project_id": 14498288,
+      "task_id": 3507664,
+      "created_at": "2017-07-24T19:32:36Z",
+      "updated_at": "2017-07-24T20:59:26Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 649243146,
+      "notes": "email design",
+      "spent_at": "2017-07-25",
+      "hours": 1.17,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-25T13:15:13Z",
+      "updated_at": "2017-07-25T21:06:27Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 649243274,
+      "notes": "",
+      "spent_at": "2017-07-25",
+      "hours": 2.45,
+      "user_id": 1586352,
+      "project_id": 14498288,
+      "task_id": 3507664,
+      "created_at": "2017-07-25T13:15:21Z",
+      "updated_at": "2017-07-25T20:03:28Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 649790910,
+      "notes": "export approved images at correct sizing ",
+      "spent_at": "2017-07-26",
+      "hours": 1.09,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-26T12:45:08Z",
+      "updated_at": "2017-07-26T16:00:27Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 650034992,
+      "notes": "index insert moodboard",
+      "spent_at": "2017-07-26",
+      "hours": 1.51,
+      "user_id": 1586352,
+      "project_id": 14522234,
+      "task_id": 3507664,
+      "created_at": "2017-07-26T19:06:08Z",
+      "updated_at": "2017-07-26T20:47:45Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 649811417,
+      "notes": "",
+      "spent_at": "2017-07-26",
+      "hours": 1.58,
+      "user_id": 1586352,
+      "project_id": 14561801,
+      "task_id": 3507664,
+      "created_at": "2017-07-26T13:20:25Z",
+      "updated_at": "2017-07-26T19:06:08Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 650353060,
+      "notes": "email design revisions, second email option",
+      "spent_at": "2017-07-27",
+      "hours": 1.47,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-27T13:02:48Z",
+      "updated_at": "2017-07-27T21:18:47Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 650484687,
+      "notes": "",
+      "spent_at": "2017-07-27",
+      "hours": 2.47,
+      "user_id": 1586352,
+      "project_id": 14522234,
+      "task_id": 3507664,
+      "created_at": "2017-07-27T16:07:59Z",
+      "updated_at": "2017-07-27T20:50:38Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 650353149,
+      "notes": "",
+      "spent_at": "2017-07-27",
+      "hours": 0.88,
+      "user_id": 1586352,
+      "project_id": 14561801,
+      "task_id": 3507664,
+      "created_at": "2017-07-27T13:02:56Z",
+      "updated_at": "2017-07-27T14:16:09Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 651133131,
+      "notes": "revisions from Kenn, email revisions",
+      "spent_at": "2017-07-28",
+      "hours": 0.6,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-28T17:51:51Z",
+      "updated_at": "2017-07-28T19:59:04Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 651158583,
+      "notes": "create pattern",
+      "spent_at": "2017-07-28",
+      "hours": 0.98,
+      "user_id": 1586352,
+      "project_id": 14498288,
+      "task_id": 3507664,
+      "created_at": "2017-07-28T18:35:30Z",
+      "updated_at": "2017-07-28T19:34:24Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 650908301,
+      "notes": "drop copy into layout, Lisa's revisions",
+      "spent_at": "2017-07-28",
+      "hours": 1.56,
+      "user_id": 1586352,
+      "project_id": 14522234,
+      "task_id": 3507664,
+      "created_at": "2017-07-28T12:46:22Z",
+      "updated_at": "2017-07-28T18:35:30Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 651769904,
+      "notes": "email design revisions, site favicon",
+      "spent_at": "2017-07-31",
+      "hours": 0.57,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-07-31T13:01:00Z",
+      "updated_at": "2017-07-31T21:05:49Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 651769997,
+      "notes": "",
+      "spent_at": "2017-07-31",
+      "hours": 3.53,
+      "user_id": 1586352,
+      "project_id": 14561801,
+      "task_id": 3507664,
+      "created_at": "2017-07-31T13:01:05Z",
+      "updated_at": "2017-07-31T19:19:36Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 651854408,
+      "notes": "update template",
+      "spent_at": "2017-07-31",
+      "hours": 0.22,
+      "user_id": 1586352,
+      "project_id": 14571682,
+      "task_id": 3507664,
+      "created_at": "2017-07-31T14:19:58Z",
+      "updated_at": "2017-07-31T14:41:31Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 652808589,
+      "notes": "",
+      "spent_at": "2017-08-01",
+      "hours": 0.08,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-08-01T18:53:34Z",
+      "updated_at": "2017-08-01T18:53:34Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 652830573,
+      "notes": "",
+      "spent_at": "2017-08-01",
+      "hours": 1.34,
+      "user_id": 1586352,
+      "project_id": 14498288,
+      "task_id": 3507664,
+      "created_at": "2017-08-01T19:34:04Z",
+      "updated_at": "2017-08-01T20:54:22Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 652604246,
+      "notes": "wireframe revisions from Charley",
+      "spent_at": "2017-08-01",
+      "hours": 0.47,
+      "user_id": 1586352,
+      "project_id": 14522234,
+      "task_id": 3507664,
+      "created_at": "2017-08-01T14:18:33Z",
+      "updated_at": "2017-08-01T14:41:58Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 652532709,
+      "notes": "guest list edits from Claire",
+      "spent_at": "2017-08-01",
+      "hours": 0.7,
+      "user_id": 1586352,
+      "project_id": 14561801,
+      "task_id": 3507664,
+      "created_at": "2017-08-01T12:54:22Z",
+      "updated_at": "2017-08-01T13:42:33Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 653232156,
+      "notes": "",
+      "spent_at": "2017-08-02",
+      "hours": 4.38,
+      "user_id": 1586352,
+      "project_id": 14498288,
+      "task_id": 3507664,
+      "created_at": "2017-08-02T14:28:33Z",
+      "updated_at": "2017-08-02T20:47:05Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 653164979,
+      "notes": "",
+      "spent_at": "2017-08-02",
+      "hours": 1.68,
+      "user_id": 1586352,
+      "project_id": 14561801,
+      "task_id": 3507664,
+      "created_at": "2017-08-02T12:53:49Z",
+      "updated_at": "2017-08-02T14:28:25Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 653928891,
+      "notes": "exporting assets ",
+      "spent_at": "2017-08-03",
+      "hours": 1.97,
+      "user_id": 1586352,
+      "project_id": 13428989,
+      "task_id": 3507664,
+      "created_at": "2017-08-03T17:35:15Z",
+      "updated_at": "2017-08-03T19:18:01Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 653770134,
+      "notes": "",
+      "spent_at": "2017-08-03",
+      "hours": 1.38,
+      "user_id": 1586352,
+      "project_id": 14498288,
+      "task_id": 3507664,
+      "created_at": "2017-08-03T13:45:17Z",
+      "updated_at": "2017-08-03T15:01:10Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 654036009,
+      "notes": "",
+      "spent_at": "2017-08-03",
+      "hours": 0.17,
+      "user_id": 1586352,
+      "project_id": 14561801,
+      "task_id": 3507664,
+      "created_at": "2017-08-03T21:08:53Z",
+      "updated_at": "2017-08-03T21:12:52Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 654309749,
+      "notes": "",
+      "spent_at": "2017-08-04",
+      "hours": 1.07,
+      "user_id": 1586352,
+      "project_id": 14561801,
+      "task_id": 3507664,
+      "created_at": "2017-08-04T13:05:27Z",
+      "updated_at": "2017-08-04T15:50:06Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 654384451,
+      "notes": "",
+      "spent_at": "2017-08-04",
+      "hours": 0.79,
+      "user_id": 1586352,
+      "project_id": 14591811,
+      "task_id": 7077242,
+      "created_at": "2017-08-04T14:45:48Z",
+      "updated_at": "2017-08-04T16:24:19Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 655373901,
+      "notes": "call w. John to discuss phase 2",
+      "spent_at": "2017-08-07",
+      "hours": 0.25,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-08-07T19:20:25Z",
+      "updated_at": "2017-08-07T19:52:12Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 655077877,
+      "notes": "",
+      "spent_at": "2017-08-07",
+      "hours": 1.08,
+      "user_id": 1586352,
+      "project_id": 14498288,
+      "task_id": 3507664,
+      "created_at": "2017-08-07T12:53:52Z",
+      "updated_at": "2017-08-07T15:36:02Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 655074910,
+      "notes": "",
+      "spent_at": "2017-08-07",
+      "hours": 0.23,
+      "user_id": 1586352,
+      "project_id": 14561801,
+      "task_id": 3507664,
+      "created_at": "2017-08-07T12:49:18Z",
+      "updated_at": "2017-08-07T13:07:56Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 655245154,
+      "notes": "",
+      "spent_at": "2017-08-07",
+      "hours": 0.62,
+      "user_id": 1586352,
+      "project_id": 14634355,
+      "task_id": 7077242,
+      "created_at": "2017-08-07T15:57:59Z",
+      "updated_at": "2017-08-07T17:11:06Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 655328808,
+      "notes": "",
+      "spent_at": "2017-08-07",
+      "hours": 3.25,
+      "user_id": 1586352,
+      "project_id": 14641841,
+      "task_id": 7077242,
+      "created_at": "2017-08-07T17:56:32Z",
+      "updated_at": "2017-08-31T16:53:07Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 655954708,
+      "notes": "",
+      "spent_at": "2017-08-08",
+      "hours": 0.13,
+      "user_id": 1586352,
+      "project_id": 14498288,
+      "task_id": 3507664,
+      "created_at": "2017-08-08T19:01:02Z",
+      "updated_at": "2017-08-08T19:08:32Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 655705393,
+      "notes": "",
+      "spent_at": "2017-08-08",
+      "hours": 0.22,
+      "user_id": 1586352,
+      "project_id": 14561801,
+      "task_id": 3507664,
+      "created_at": "2017-08-08T12:57:26Z",
+      "updated_at": "2017-08-08T13:10:31Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 655713863,
+      "notes": "",
+      "spent_at": "2017-08-08",
+      "hours": 0.63,
+      "user_id": 1586352,
+      "project_id": 14697834,
+      "task_id": 7077242,
+      "created_at": "2017-08-08T13:10:31Z",
+      "updated_at": "2017-08-08T20:52:32Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 655934919,
+      "notes": "",
+      "spent_at": "2017-08-08",
+      "hours": 0.47,
+      "user_id": 1586352,
+      "project_id": 14699906,
+      "task_id": 7077242,
+      "created_at": "2017-08-08T18:22:34Z",
+      "updated_at": "2017-08-08T20:45:17Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 656547046,
+      "notes": "help Patrick/Lisa",
+      "spent_at": "2017-08-09",
+      "hours": 0.39,
+      "user_id": 1586352,
+      "project_id": 13428989,
+      "task_id": 3507664,
+      "created_at": "2017-08-09T19:42:39Z",
+      "updated_at": "2017-08-09T20:06:04Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 656273880,
+      "notes": "direct mail design presentation ",
+      "spent_at": "2017-08-09",
+      "hours": 0.21,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-08-09T12:53:09Z",
+      "updated_at": "2017-08-09T14:34:48Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 656379366,
+      "notes": "",
+      "spent_at": "2017-08-09",
+      "hours": 0.49,
+      "user_id": 1586352,
+      "project_id": 14498288,
+      "task_id": 3507664,
+      "created_at": "2017-08-09T15:26:24Z",
+      "updated_at": "2017-08-09T15:55:37Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 656558230,
+      "notes": "",
+      "spent_at": "2017-08-09",
+      "hours": 0.22,
+      "user_id": 1586352,
+      "project_id": 14640484,
+      "task_id": 3507664,
+      "created_at": "2017-08-09T20:06:04Z",
+      "updated_at": "2017-08-09T20:59:00Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 656284658,
+      "notes": "",
+      "spent_at": "2017-08-09",
+      "hours": 0.22,
+      "user_id": 1586352,
+      "project_id": 14697834,
+      "task_id": 7077242,
+      "created_at": "2017-08-09T13:11:37Z",
+      "updated_at": "2017-08-09T17:38:48Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 656288443,
+      "notes": "",
+      "spent_at": "2017-08-09",
+      "hours": 2.63,
+      "user_id": 1586352,
+      "project_id": 14699906,
+      "task_id": 7077242,
+      "created_at": "2017-08-09T13:17:50Z",
+      "updated_at": "2017-08-09T20:59:26Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 656864214,
+      "notes": "",
+      "spent_at": "2017-08-10",
+      "hours": 2.47,
+      "user_id": 1586352,
+      "project_id": 14498288,
+      "task_id": 3507664,
+      "created_at": "2017-08-10T13:15:43Z",
+      "updated_at": "2017-08-10T21:30:59Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 657123566,
+      "notes": "",
+      "spent_at": "2017-08-10",
+      "hours": 1.22,
+      "user_id": 1586352,
+      "project_id": 14699906,
+      "task_id": 7077242,
+      "created_at": "2017-08-10T20:36:56Z",
+      "updated_at": "2017-08-10T21:31:02Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 657663512,
+      "notes": "call with John to discuss direct mail revisions",
+      "spent_at": "2017-08-11",
+      "hours": 0.32,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-08-11T19:29:39Z",
+      "updated_at": "2017-08-11T19:48:43Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 657674076,
+      "notes": "direct mail revisions",
+      "spent_at": "2017-08-11",
+      "hours": 0.3,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-08-11T19:48:50Z",
+      "updated_at": "2017-08-11T20:36:34Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 657399077,
+      "notes": "update Screens presentation",
+      "spent_at": "2017-08-11",
+      "hours": 3.32,
+      "user_id": 1586352,
+      "project_id": 14498288,
+      "task_id": 3507664,
+      "created_at": "2017-08-11T12:51:44Z",
+      "updated_at": "2017-08-11T20:44:00Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 657396300,
+      "notes": "",
+      "spent_at": "2017-08-11",
+      "hours": 1.35,
+      "user_id": 1586352,
+      "project_id": 14699906,
+      "task_id": 7077242,
+      "created_at": "2017-08-11T12:46:03Z",
+      "updated_at": "2017-08-11T18:28:13Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 658194084,
+      "notes": "",
+      "spent_at": "2017-08-14",
+      "hours": 0.13,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-08-14T13:24:02Z",
+      "updated_at": "2017-08-14T20:29:47Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 658316291,
+      "notes": "",
+      "spent_at": "2017-08-14",
+      "hours": 0.12,
+      "user_id": 1586352,
+      "project_id": 14498288,
+      "task_id": 3507664,
+      "created_at": "2017-08-14T15:28:01Z",
+      "updated_at": "2017-08-14T20:46:14Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 658573272,
+      "notes": "",
+      "spent_at": "2017-08-14",
+      "hours": 0.14,
+      "user_id": 1586352,
+      "project_id": 14561801,
+      "task_id": 3507664,
+      "created_at": "2017-08-14T20:35:56Z",
+      "updated_at": "2017-08-14T20:44:07Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 658198596,
+      "notes": "",
+      "spent_at": "2017-08-14",
+      "hours": 2.05,
+      "user_id": 1586352,
+      "project_id": 14708367,
+      "task_id": 3507664,
+      "created_at": "2017-08-14T13:28:44Z",
+      "updated_at": "2017-08-14T20:57:38Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 658914260,
+      "notes": "",
+      "spent_at": "2017-08-15",
+      "hours": 1.25,
+      "user_id": 1586352,
+      "project_id": 14708367,
+      "task_id": 3507664,
+      "created_at": "2017-08-15T14:11:04Z",
+      "updated_at": "2017-08-15T20:57:39Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 659085561,
+      "notes": "",
+      "spent_at": "2017-08-15",
+      "hours": 1.43,
+      "user_id": 1586352,
+      "project_id": 14755955,
+      "task_id": 7077242,
+      "created_at": "2017-08-15T18:16:02Z",
+      "updated_at": "2017-08-15T21:28:16Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 659030391,
+      "notes": "",
+      "spent_at": "2017-08-15",
+      "hours": 2.75,
+      "user_id": 1586352,
+      "project_id": 14756838,
+      "task_id": 3507664,
+      "created_at": "2017-08-15T16:35:21Z",
+      "updated_at": "2017-08-16T20:22:23Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 659424107,
+      "notes": "direct mail revisions",
+      "spent_at": "2017-08-16",
+      "hours": 0.48,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-08-16T12:45:49Z",
+      "updated_at": "2017-08-16T15:13:27Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 659423976,
+      "notes": "",
+      "spent_at": "2017-08-16",
+      "hours": 1.63,
+      "user_id": 1586352,
+      "project_id": 14708367,
+      "task_id": 3507664,
+      "created_at": "2017-08-16T12:45:34Z",
+      "updated_at": "2017-08-16T14:44:48Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 659654722,
+      "notes": "call to discuss fact sheet / brochure",
+      "spent_at": "2017-08-16",
+      "hours": 0.42,
+      "user_id": 1586352,
+      "project_id": 14747053,
+      "task_id": 3507664,
+      "created_at": "2017-08-16T18:55:14Z",
+      "updated_at": "2017-08-16T19:23:01Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 659667203,
+      "notes": "",
+      "spent_at": "2017-08-16",
+      "hours": 0.55,
+      "user_id": 1586352,
+      "project_id": 14747053,
+      "task_id": 3507664,
+      "created_at": "2017-08-16T19:23:01Z",
+      "updated_at": "2017-08-16T21:21:27Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 659548948,
+      "notes": "packaging assets",
+      "spent_at": "2017-08-16",
+      "hours": 0.58,
+      "user_id": 1586352,
+      "project_id": 14759080,
+      "task_id": 7077242,
+      "created_at": "2017-08-16T15:45:25Z",
+      "updated_at": "2017-08-23T16:44:04Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 663158714,
+      "notes": "",
+      "spent_at": "2017-08-24",
+      "hours": 2.86,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-08-24T12:52:19Z",
+      "updated_at": "2017-08-24T21:09:47Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 663210730,
+      "notes": "",
+      "spent_at": "2017-08-24",
+      "hours": 2.05,
+      "user_id": 1586352,
+      "project_id": 14744018,
+      "task_id": 3507664,
+      "created_at": "2017-08-24T14:09:53Z",
+      "updated_at": "2017-08-24T15:48:06Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 663916304,
+      "notes": "compiling final files for direct mail piece",
+      "spent_at": "2017-08-25",
+      "hours": 0.28,
+      "user_id": 1586352,
+      "project_id": 14358494,
+      "task_id": 3507664,
+      "created_at": "2017-08-25T17:08:27Z",
+      "updated_at": "2017-08-25T17:25:09Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 663967702,
+      "notes": "",
+      "spent_at": "2017-08-25",
+      "hours": 1.55,
+      "user_id": 1586352,
+      "project_id": 14640484,
+      "task_id": 3507664,
+      "created_at": "2017-08-25T18:46:59Z",
+      "updated_at": "2017-08-25T20:23:53Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 663723203,
+      "notes": "",
+      "spent_at": "2017-08-25",
+      "hours": 3.55,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-08-25T12:58:38Z",
+      "updated_at": "2017-08-25T20:23:56Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 664486696,
+      "notes": "",
+      "spent_at": "2017-08-28",
+      "hours": 2.9,
+      "user_id": 1586352,
+      "project_id": 14640484,
+      "task_id": 3507664,
+      "created_at": "2017-08-28T12:56:02Z",
+      "updated_at": "2017-08-28T21:20:22Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 664801407,
+      "notes": "",
+      "spent_at": "2017-08-28",
+      "hours": 0.82,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-08-28T19:28:42Z",
+      "updated_at": "2017-08-28T20:17:49Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 664566232,
+      "notes": "",
+      "spent_at": "2017-08-28",
+      "hours": 0.9,
+      "user_id": 1586352,
+      "project_id": 14793699,
+      "task_id": 3507664,
+      "created_at": "2017-08-28T14:19:45Z",
+      "updated_at": "2017-08-28T18:40:54Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 665168530,
+      "notes": "",
+      "spent_at": "2017-08-29",
+      "hours": 2.94,
+      "user_id": 1586352,
+      "project_id": 14640484,
+      "task_id": 3507664,
+      "created_at": "2017-08-29T13:03:59Z",
+      "updated_at": "2017-08-29T21:23:05Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 665222570,
+      "notes": "",
+      "spent_at": "2017-08-29",
+      "hours": 1.24,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-08-29T14:14:26Z",
+      "updated_at": "2017-08-29T15:16:10Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 665762302,
+      "notes": "",
+      "spent_at": "2017-08-30",
+      "hours": 0.08,
+      "user_id": 1586352,
+      "project_id": 14640484,
+      "task_id": 3507664,
+      "created_at": "2017-08-30T12:56:50Z",
+      "updated_at": "2017-08-30T12:56:50Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 665975823,
+      "notes": "call w. Liz",
+      "spent_at": "2017-08-30",
+      "hours": 0.28,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-08-30T18:04:05Z",
+      "updated_at": "2017-08-30T19:15:23Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 666013640,
+      "notes": "email",
+      "spent_at": "2017-08-30",
+      "hours": 0.91,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-08-30T19:15:23Z",
+      "updated_at": "2017-08-30T20:10:14Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 665862124,
+      "notes": "",
+      "spent_at": "2017-08-30",
+      "hours": 1.23,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-08-30T15:10:30Z",
+      "updated_at": "2017-08-30T21:08:35Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 666577593,
+      "notes": "",
+      "spent_at": "2017-08-31",
+      "hours": 0.3,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-08-31T17:09:05Z",
+      "updated_at": "2017-08-31T18:08:25Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 666393937,
+      "notes": "image sourcing",
+      "spent_at": "2017-08-31",
+      "hours": 1.53,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-08-31T13:20:46Z",
+      "updated_at": "2017-08-31T19:12:36Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 666551332,
+      "notes": "",
+      "spent_at": "2017-08-31",
+      "hours": 0.87,
+      "user_id": 1586352,
+      "project_id": 14878841,
+      "task_id": 3507664,
+      "created_at": "2017-08-31T16:30:07Z",
+      "updated_at": "2017-09-01T14:13:39Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 666698755,
+      "notes": "",
+      "spent_at": "2017-08-31",
+      "hours": 0.75,
+      "user_id": 1586352,
+      "project_id": 14878919,
+      "task_id": 3507664,
+      "created_at": "2017-08-31T20:34:24Z",
+      "updated_at": "2017-09-01T12:40:16Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 667316274,
+      "notes": "",
+      "spent_at": "2017-09-01",
+      "hours": 0.1,
+      "user_id": 1586352,
+      "project_id": 14793699,
+      "task_id": 3507664,
+      "created_at": "2017-09-01T17:53:51Z",
+      "updated_at": "2017-09-01T17:59:46Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 667070242,
+      "notes": "",
+      "spent_at": "2017-09-01",
+      "hours": 1.64,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-01T13:02:00Z",
+      "updated_at": "2017-09-01T18:30:15Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 667055940,
+      "notes": "",
+      "spent_at": "2017-09-01",
+      "hours": 1.79,
+      "user_id": 1586352,
+      "project_id": 14878919,
+      "task_id": 3507664,
+      "created_at": "2017-09-01T12:40:46Z",
+      "updated_at": "2017-09-01T17:28:01Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 668952658,
+      "notes": "",
+      "spent_at": "2017-09-06",
+      "hours": 0.43,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-06T12:52:07Z",
+      "updated_at": "2017-09-06T15:15:05Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 668982582,
+      "notes": "",
+      "spent_at": "2017-09-06",
+      "hours": 1.24,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-06T13:35:23Z",
+      "updated_at": "2017-09-06T19:52:03Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 669059092,
+      "notes": "",
+      "spent_at": "2017-09-06",
+      "hours": 3.09,
+      "user_id": 1586352,
+      "project_id": 14931622,
+      "task_id": 3507664,
+      "created_at": "2017-09-06T15:09:21Z",
+      "updated_at": "2017-09-06T21:23:16Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 669715863,
+      "notes": "",
+      "spent_at": "2017-09-07",
+      "hours": 1.23,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-07T16:40:46Z",
+      "updated_at": "2017-09-07T21:14:53Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 669551939,
+      "notes": "",
+      "spent_at": "2017-09-07",
+      "hours": 0.44,
+      "user_id": 1586352,
+      "project_id": 14878841,
+      "task_id": 3507664,
+      "created_at": "2017-09-07T12:55:25Z",
+      "updated_at": "2017-09-07T13:22:01Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 669607407,
+      "notes": "",
+      "spent_at": "2017-09-07",
+      "hours": 0.68,
+      "user_id": 1586352,
+      "project_id": 14931622,
+      "task_id": 3507664,
+      "created_at": "2017-09-07T14:15:38Z",
+      "updated_at": "2017-09-07T15:24:42Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 669664945,
+      "notes": "",
+      "spent_at": "2017-09-07",
+      "hours": 3.6,
+      "user_id": 1586352,
+      "project_id": 14958843,
+      "task_id": 7077242,
+      "created_at": "2017-09-07T15:28:23Z",
+      "updated_at": "2017-09-07T21:15:12Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 670150422,
+      "notes": "",
+      "spent_at": "2017-09-08",
+      "hours": 0.67,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-08T13:20:22Z",
+      "updated_at": "2017-09-08T19:01:05Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 670127199,
+      "notes": "",
+      "spent_at": "2017-09-08",
+      "hours": 3.5,
+      "user_id": 1586352,
+      "project_id": 14958843,
+      "task_id": 7077242,
+      "created_at": "2017-09-08T12:43:38Z",
+      "updated_at": "2017-09-14T13:19:37Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 671089106,
+      "notes": "",
+      "spent_at": "2017-09-11",
+      "hours": 1.41,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-11T15:15:37Z",
+      "updated_at": "2017-09-11T21:24:11Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 671028964,
+      "notes": "",
+      "spent_at": "2017-09-11",
+      "hours": 0.45,
+      "user_id": 1586352,
+      "project_id": 14793699,
+      "task_id": 3507664,
+      "created_at": "2017-09-11T14:17:09Z",
+      "updated_at": "2017-09-11T20:26:44Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 670955294,
+      "notes": "convert PDF to Word doc",
+      "spent_at": "2017-09-11",
+      "hours": 0.09,
+      "user_id": 1586352,
+      "project_id": 14931622,
+      "task_id": 3507664,
+      "created_at": "2017-09-11T13:01:51Z",
+      "updated_at": "2017-09-11T13:14:58Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 670955213,
+      "notes": "",
+      "spent_at": "2017-09-11",
+      "hours": 1.03,
+      "user_id": 1586352,
+      "project_id": 14958843,
+      "task_id": 7077242,
+      "created_at": "2017-09-11T13:01:46Z",
+      "updated_at": "2017-09-11T14:57:18Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 671075314,
+      "notes": "",
+      "spent_at": "2017-09-11",
+      "hours": 1.25,
+      "user_id": 1586352,
+      "project_id": 14967525,
+      "task_id": 7077242,
+      "created_at": "2017-09-11T15:01:46Z",
+      "updated_at": "2017-09-26T13:59:53Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 671229569,
+      "notes": "",
+      "spent_at": "2017-09-11",
+      "hours": 1.58,
+      "user_id": 1586352,
+      "project_id": 14984838,
+      "task_id": 3507664,
+      "created_at": "2017-09-11T18:11:15Z",
+      "updated_at": "2017-09-12T16:35:54Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 671625035,
+      "notes": "build assets to spec, call with Julia",
+      "spent_at": "2017-09-12",
+      "hours": 5.1,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-12T13:08:37Z",
+      "updated_at": "2017-09-12T20:05:07Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 671897529,
+      "notes": "",
+      "spent_at": "2017-09-12",
+      "hours": 0.65,
+      "user_id": 1586352,
+      "project_id": 14984838,
+      "task_id": 3507664,
+      "created_at": "2017-09-12T20:05:07Z",
+      "updated_at": "2017-09-27T12:37:31Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 672215017,
+      "notes": "",
+      "spent_at": "2017-09-13",
+      "hours": 2.52,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-13T12:43:43Z",
+      "updated_at": "2017-09-13T21:02:58Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 672267489,
+      "notes": "",
+      "spent_at": "2017-09-13",
+      "hours": 1.3,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-09-13T14:03:24Z",
+      "updated_at": "2017-09-13T20:29:56Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 672435503,
+      "notes": "",
+      "spent_at": "2017-09-13",
+      "hours": 0.92,
+      "user_id": 1586352,
+      "project_id": 14931622,
+      "task_id": 3507664,
+      "created_at": "2017-09-13T18:12:33Z",
+      "updated_at": "2017-09-13T18:43:55Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 672450519,
+      "notes": "",
+      "spent_at": "2017-09-13",
+      "hours": 0.25,
+      "user_id": 1586352,
+      "project_id": 14984838,
+      "task_id": 3507664,
+      "created_at": "2017-09-13T18:44:11Z",
+      "updated_at": "2017-09-27T12:37:40Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 672502476,
+      "notes": "call",
+      "spent_at": "2017-09-13",
+      "hours": 0.55,
+      "user_id": 1586352,
+      "project_id": 14985099,
+      "task_id": 3507664,
+      "created_at": "2017-09-13T20:29:56Z",
+      "updated_at": "2017-09-13T21:02:53Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 672856503,
+      "notes": "",
+      "spent_at": "2017-09-14",
+      "hours": 0.62,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-14T13:34:21Z",
+      "updated_at": "2017-09-14T20:30:16Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 672826586,
+      "notes": "",
+      "spent_at": "2017-09-14",
+      "hours": 1.23,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-14T12:49:00Z",
+      "updated_at": "2017-09-14T21:13:02Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 672929325,
+      "notes": "",
+      "spent_at": "2017-09-14",
+      "hours": 2.65,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-09-14T15:11:38Z",
+      "updated_at": "2017-09-14T19:21:37Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 672860244,
+      "notes": "",
+      "spent_at": "2017-09-14",
+      "hours": 1,
+      "user_id": 1586352,
+      "project_id": 14967525,
+      "task_id": 7077242,
+      "created_at": "2017-09-14T13:39:21Z",
+      "updated_at": "2017-09-26T13:59:32Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 672826517,
+      "notes": "",
+      "spent_at": "2017-09-14",
+      "hours": 0.43,
+      "user_id": 1586352,
+      "project_id": 14984838,
+      "task_id": 3507664,
+      "created_at": "2017-09-14T12:48:54Z",
+      "updated_at": "2017-09-27T12:37:49Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 673689703,
+      "notes": "",
+      "spent_at": "2017-09-15",
+      "hours": 0.56,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-15T18:37:11Z",
+      "updated_at": "2017-09-15T19:11:03Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 673435787,
+      "notes": "",
+      "spent_at": "2017-09-15",
+      "hours": 2.92,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-15T13:11:45Z",
+      "updated_at": "2017-09-15T21:27:44Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 673470383,
+      "notes": "call w. Julia",
+      "spent_at": "2017-09-15",
+      "hours": 0.23,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-15T13:58:09Z",
+      "updated_at": "2017-09-15T19:44:52Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 673550380,
+      "notes": "",
+      "spent_at": "2017-09-15",
+      "hours": 1.38,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-09-15T15:24:12Z",
+      "updated_at": "2017-09-15T17:51:48Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 673764956,
+      "notes": "set up file",
+      "spent_at": "2017-09-15",
+      "hours": 0,
+      "user_id": 1586352,
+      "project_id": 15030942,
+      "task_id": 7077242,
+      "created_at": "2017-09-15T20:37:26Z",
+      "updated_at": "2017-09-15T20:37:33Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 674333738,
+      "notes": "call w. Julia",
+      "spent_at": "2017-09-18",
+      "hours": 0.42,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-18T13:50:52Z",
+      "updated_at": "2017-09-18T19:35:08Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 674632684,
+      "notes": "",
+      "spent_at": "2017-09-18",
+      "hours": 0.5,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-18T19:35:08Z",
+      "updated_at": "2017-09-18T20:35:31Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 674391103,
+      "notes": "",
+      "spent_at": "2017-09-18",
+      "hours": 0.92,
+      "user_id": 1586352,
+      "project_id": 14931622,
+      "task_id": 3507664,
+      "created_at": "2017-09-18T14:35:54Z",
+      "updated_at": "2017-09-18T19:10:25Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 674280974,
+      "notes": "",
+      "spent_at": "2017-09-18",
+      "hours": 0.86,
+      "user_id": 1586352,
+      "project_id": 15030942,
+      "task_id": 7077242,
+      "created_at": "2017-09-18T12:59:51Z",
+      "updated_at": "2017-09-18T14:02:18Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 674514429,
+      "notes": "",
+      "spent_at": "2017-09-18",
+      "hours": 2.7,
+      "user_id": 1586352,
+      "project_id": 15030942,
+      "task_id": 7077242,
+      "created_at": "2017-09-18T16:34:45Z",
+      "updated_at": "2017-09-18T20:52:31Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 674995201,
+      "notes": null,
+      "spent_at": "2017-09-19",
+      "hours": 0.96,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-19T12:48:36Z",
+      "updated_at": "2017-09-19T14:40:37Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 674995236,
+      "notes": "",
+      "spent_at": "2017-09-19",
+      "hours": 3.62,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-19T12:48:40Z",
+      "updated_at": "2017-09-19T22:31:53Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 674995352,
+      "notes": "",
+      "spent_at": "2017-09-19",
+      "hours": 1.23,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-09-19T12:48:49Z",
+      "updated_at": "2017-09-19T14:52:32Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 675598876,
+      "notes": "",
+      "spent_at": "2017-09-20",
+      "hours": 0.38,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-20T13:11:12Z",
+      "updated_at": "2017-09-20T13:52:12Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 675598794,
+      "notes": "",
+      "spent_at": "2017-09-20",
+      "hours": 1.62,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-20T13:11:04Z",
+      "updated_at": "2017-09-20T20:52:41Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 675706131,
+      "notes": "",
+      "spent_at": "2017-09-20",
+      "hours": 1.5,
+      "user_id": 1586352,
+      "project_id": 14864705,
+      "task_id": 3507664,
+      "created_at": "2017-09-20T15:34:11Z",
+      "updated_at": "2017-09-29T20:56:33Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 675598940,
+      "notes": "",
+      "spent_at": "2017-09-20",
+      "hours": 1.5,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-09-20T13:11:17Z",
+      "updated_at": "2017-09-20T17:22:09Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 675846648,
+      "notes": "",
+      "spent_at": "2017-09-20",
+      "hours": 0.53,
+      "user_id": 1586352,
+      "project_id": 14958843,
+      "task_id": 7077242,
+      "created_at": "2017-09-20T19:38:03Z",
+      "updated_at": "2017-09-20T19:38:03Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 675821433,
+      "notes": "",
+      "spent_at": "2017-09-20",
+      "hours": 0.75,
+      "user_id": 1586352,
+      "project_id": 15030942,
+      "task_id": 7077242,
+      "created_at": "2017-09-20T18:46:34Z",
+      "updated_at": "2017-09-26T14:11:29Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 676197219,
+      "notes": "coffee label, name tags",
+      "spent_at": "2017-09-21",
+      "hours": 0,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-21T13:27:55Z",
+      "updated_at": "2017-09-21T13:27:57Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 676181221,
+      "notes": "call w. Netta ",
+      "spent_at": "2017-09-21",
+      "hours": 0.53,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-09-21T13:04:27Z",
+      "updated_at": "2017-09-21T15:41:20Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 676296812,
+      "notes": "Mood-boards for Millennials, Gen X, and Millennial Parents",
+      "spent_at": "2017-09-21",
+      "hours": 1.85,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-09-21T15:41:57Z",
+      "updated_at": "2017-09-21T21:23:59Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 676261425,
+      "notes": "",
+      "spent_at": "2017-09-21",
+      "hours": 0.37,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-21T14:57:35Z",
+      "updated_at": "2017-09-21T16:11:10Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 676302341,
+      "notes": "Netta Powerpoint",
+      "spent_at": "2017-09-21",
+      "hours": 0.99,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-21T15:49:30Z",
+      "updated_at": "2017-09-21T17:09:45Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 676364813,
+      "notes": "compile final assets",
+      "spent_at": "2017-09-21",
+      "hours": 0.38,
+      "user_id": 1586352,
+      "project_id": 14958843,
+      "task_id": 7077242,
+      "created_at": "2017-09-21T17:30:53Z",
+      "updated_at": "2017-09-21T17:54:15Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 676358349,
+      "notes": "compile final assets",
+      "spent_at": "2017-09-21",
+      "hours": 0.6,
+      "user_id": 1586352,
+      "project_id": 15030942,
+      "task_id": 7077242,
+      "created_at": "2017-09-21T17:18:49Z",
+      "updated_at": "2017-09-26T14:11:02Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 676918333,
+      "notes": "Mood-boards for Millennials, Gen X, and Millennial Parents",
+      "spent_at": "2017-09-22",
+      "hours": 0.97,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-09-22T16:12:10Z",
+      "updated_at": "2017-09-22T19:38:06Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 676986354,
+      "notes": "Netta Powerpoint",
+      "spent_at": "2017-09-22",
+      "hours": 0.35,
+      "user_id": 1586352,
+      "project_id": 14851244,
+      "task_id": 3507664,
+      "created_at": "2017-09-22T18:00:08Z",
+      "updated_at": "2017-09-22T18:41:17Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 676755743,
+      "notes": "",
+      "spent_at": "2017-09-22",
+      "hours": 4.93,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-09-22T12:55:25Z",
+      "updated_at": "2017-09-25T13:01:05Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 677039616,
+      "notes": "",
+      "spent_at": "2017-09-22",
+      "hours": 0.22,
+      "user_id": 1586352,
+      "project_id": 15080985,
+      "task_id": 7077242,
+      "created_at": "2017-09-22T19:38:30Z",
+      "updated_at": "2017-09-22T19:52:03Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 677710632,
+      "notes": "",
+      "spent_at": "2017-09-25",
+      "hours": 0.26,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-25T14:49:44Z",
+      "updated_at": "2017-09-25T15:05:02Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 677926416,
+      "notes": "coffee label",
+      "spent_at": "2017-09-25",
+      "hours": 0.5,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-25T19:18:27Z",
+      "updated_at": "2017-09-25T20:01:33Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 677595398,
+      "notes": "",
+      "spent_at": "2017-09-25",
+      "hours": 0.93,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-09-25T13:00:57Z",
+      "updated_at": "2017-09-25T14:07:39Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 677663765,
+      "notes": "",
+      "spent_at": "2017-09-25",
+      "hours": 1.12,
+      "user_id": 1586352,
+      "project_id": 15080985,
+      "task_id": 7077242,
+      "created_at": "2017-09-25T14:07:39Z",
+      "updated_at": "2017-09-25T20:43:46Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 677763732,
+      "notes": "",
+      "spent_at": "2017-09-25",
+      "hours": 1.63,
+      "user_id": 1586352,
+      "project_id": 15094454,
+      "task_id": 7077242,
+      "created_at": "2017-09-25T15:38:54Z",
+      "updated_at": "2017-09-25T18:21:41Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 677900508,
+      "notes": "",
+      "spent_at": "2017-09-25",
+      "hours": 2.08,
+      "user_id": 1586352,
+      "project_id": 15105102,
+      "task_id": 7077242,
+      "created_at": "2017-09-25T18:37:25Z",
+      "updated_at": "2017-09-25T21:03:57Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 678002452,
+      "notes": "name tags, coffee label",
+      "spent_at": "2017-09-26",
+      "hours": 1.35,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-25T21:19:26Z",
+      "updated_at": "2017-09-26T18:51:32Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 678300024,
+      "notes": "talk to Lisa about next steps, start looking up visuals to supplement copy, talk to Charley about next steps",
+      "spent_at": "2017-09-26",
+      "hours": 1.28,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-09-26T13:04:32Z",
+      "updated_at": "2017-09-26T20:07:41Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 678299519,
+      "notes": "",
+      "spent_at": "2017-09-26",
+      "hours": 0.43,
+      "user_id": 1586352,
+      "project_id": 15080985,
+      "task_id": 7077242,
+      "created_at": "2017-09-26T13:03:46Z",
+      "updated_at": "2017-09-26T15:14:18Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 678553783,
+      "notes": "",
+      "spent_at": "2017-09-26",
+      "hours": 0.5,
+      "user_id": 1586352,
+      "project_id": 15119294,
+      "task_id": 3507664,
+      "created_at": "2017-09-26T18:51:12Z",
+      "updated_at": "2017-09-26T18:51:12Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 678889113,
+      "notes": "",
+      "spent_at": "2017-09-27",
+      "hours": 0.48,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-27T12:07:39Z",
+      "updated_at": "2017-09-27T18:33:42Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 679031874,
+      "notes": "",
+      "spent_at": "2017-09-27",
+      "hours": 2.39,
+      "user_id": 1586352,
+      "project_id": 14767818,
+      "task_id": 7077242,
+      "created_at": "2017-09-27T15:29:04Z",
+      "updated_at": "2017-09-27T19:19:25Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 678889190,
+      "notes": "start putting together presentation / mood boards, meet with printer",
+      "spent_at": "2017-09-27",
+      "hours": 3.98,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-09-27T12:07:49Z",
+      "updated_at": "2017-09-27T20:22:40Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 678889155,
+      "notes": "",
+      "spent_at": "2017-09-27",
+      "hours": 0.18,
+      "user_id": 1586352,
+      "project_id": 15094454,
+      "task_id": 7077242,
+      "created_at": "2017-09-27T12:07:45Z",
+      "updated_at": "2017-09-27T19:02:48Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 679762169,
+      "notes": "",
+      "spent_at": "2017-09-28",
+      "hours": 0.47,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-28T18:35:02Z",
+      "updated_at": "2017-09-28T18:35:35Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 679691969,
+      "notes": "",
+      "spent_at": "2017-09-28",
+      "hours": 0.58,
+      "user_id": 1586352,
+      "project_id": 14767818,
+      "task_id": 7077242,
+      "created_at": "2017-09-28T16:29:48Z",
+      "updated_at": "2017-09-28T20:59:14Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 679576497,
+      "notes": "",
+      "spent_at": "2017-09-28",
+      "hours": 0.55,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-09-28T13:59:30Z",
+      "updated_at": "2017-09-28T14:28:08Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 679625793,
+      "notes": "",
+      "spent_at": "2017-09-28",
+      "hours": 0.5,
+      "user_id": 1586352,
+      "project_id": 14864705,
+      "task_id": 3507664,
+      "created_at": "2017-09-28T15:02:27Z",
+      "updated_at": "2017-09-29T20:56:21Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 679762627,
+      "notes": "",
+      "spent_at": "2017-09-28",
+      "hours": 0.37,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-09-28T18:35:58Z",
+      "updated_at": "2017-09-28T19:10:47Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 679598545,
+      "notes": "package final assets",
+      "spent_at": "2017-09-28",
+      "hours": 0.58,
+      "user_id": 1586352,
+      "project_id": 15060037,
+      "task_id": 7077242,
+      "created_at": "2017-09-28T14:28:23Z",
+      "updated_at": "2017-09-28T14:47:52Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 679598698,
+      "notes": "package final assets",
+      "spent_at": "2017-09-28",
+      "hours": 0.58,
+      "user_id": 1586352,
+      "project_id": 15091696,
+      "task_id": 7077242,
+      "created_at": "2017-09-28T14:28:34Z",
+      "updated_at": "2017-09-28T15:02:31Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 679551936,
+      "notes": "",
+      "spent_at": "2017-09-28",
+      "hours": 1.39,
+      "user_id": 1586352,
+      "project_id": 15119294,
+      "task_id": 3507664,
+      "created_at": "2017-09-28T13:26:14Z",
+      "updated_at": "2017-09-28T20:26:06Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 680153416,
+      "notes": "",
+      "spent_at": "2017-09-29",
+      "hours": 0.27,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-09-29T13:00:50Z",
+      "updated_at": "2017-09-29T18:52:56Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 680149267,
+      "notes": "",
+      "spent_at": "2017-09-29",
+      "hours": 0.17,
+      "user_id": 1586352,
+      "project_id": 14767818,
+      "task_id": 7077242,
+      "created_at": "2017-09-29T12:55:12Z",
+      "updated_at": "2017-09-29T19:52:14Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 680445683,
+      "notes": "work on presentation ",
+      "spent_at": "2017-09-29",
+      "hours": 1.52,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-09-29T18:54:23Z",
+      "updated_at": "2017-09-29T21:14:15Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 680149211,
+      "notes": "",
+      "spent_at": "2017-09-29",
+      "hours": 2.05,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-09-29T12:55:08Z",
+      "updated_at": "2017-09-29T20:17:19Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 680149150,
+      "notes": "",
+      "spent_at": "2017-09-29",
+      "hours": 2.1,
+      "user_id": 1586352,
+      "project_id": 15119294,
+      "task_id": 3507664,
+      "created_at": "2017-09-29T12:55:03Z",
+      "updated_at": "2017-09-29T20:17:22Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 681140875,
+      "notes": "",
+      "spent_at": "2017-10-02",
+      "hours": 0.53,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-10-02T13:11:38Z",
+      "updated_at": "2017-10-02T21:09:14Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 681177624,
+      "notes": "fill out presentation, color palettes, imagery",
+      "spent_at": "2017-10-02",
+      "hours": 4.31,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-10-02T13:44:01Z",
+      "updated_at": "2017-10-02T19:48:50Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 681140808,
+      "notes": "",
+      "spent_at": "2017-10-02",
+      "hours": 0.18,
+      "user_id": 1586352,
+      "project_id": 15119294,
+      "task_id": 3507664,
+      "created_at": "2017-10-02T13:11:35Z",
+      "updated_at": "2017-10-02T21:09:28Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 681915859,
+      "notes": "",
+      "spent_at": "2017-10-03",
+      "hours": 0.41,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-10-03T13:12:44Z",
+      "updated_at": "2017-10-03T15:42:06Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 681916156,
+      "notes": "continue working on presentation, begin working on Gen X layouts",
+      "spent_at": "2017-10-03",
+      "hours": 4.37,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-10-03T13:13:05Z",
+      "updated_at": "2017-10-03T20:58:23Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 681983450,
+      "notes": "",
+      "spent_at": "2017-10-03",
+      "hours": 0.87,
+      "user_id": 1586352,
+      "project_id": 15094454,
+      "task_id": 7077242,
+      "created_at": "2017-10-03T14:33:50Z",
+      "updated_at": "2017-10-03T21:20:11Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 682117082,
+      "notes": "FC Connect call",
+      "spent_at": "2017-10-03",
+      "hours": 0.33,
+      "user_id": 1586352,
+      "project_id": 15178300,
+      "task_id": 3507664,
+      "created_at": "2017-10-03T17:18:25Z",
+      "updated_at": "2017-10-06T18:18:25Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 682549675,
+      "notes": "update bio sheet, seating chart",
+      "spent_at": "2017-10-04",
+      "hours": 0.45,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-10-04T13:08:19Z",
+      "updated_at": "2017-10-04T19:17:34Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 682549729,
+      "notes": "",
+      "spent_at": "2017-10-04",
+      "hours": 1.95,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-10-04T13:08:24Z",
+      "updated_at": "2017-10-04T21:16:59Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 682549844,
+      "notes": "",
+      "spent_at": "2017-10-04",
+      "hours": 2.5,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-10-04T13:08:34Z",
+      "updated_at": "2017-10-04T19:51:16Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 682800881,
+      "notes": "",
+      "spent_at": "2017-10-04",
+      "hours": 0.23,
+      "user_id": 1586352,
+      "project_id": 15094454,
+      "task_id": 7077242,
+      "created_at": "2017-10-04T19:17:34Z",
+      "updated_at": "2017-10-04T19:51:23Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 683139359,
+      "notes": "",
+      "spent_at": "2017-10-05",
+      "hours": 6.65,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-10-05T12:39:54Z",
+      "updated_at": "2017-10-05T21:05:28Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 684049231,
+      "notes": "",
+      "spent_at": "2017-10-06",
+      "hours": 0.17,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-10-06T20:05:25Z",
+      "updated_at": "2017-10-06T20:05:25Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 683738549,
+      "notes": "",
+      "spent_at": "2017-10-06",
+      "hours": 4.03,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-10-06T12:45:59Z",
+      "updated_at": "2017-10-06T19:26:32Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 684560539,
+      "notes": "",
+      "spent_at": "2017-10-09",
+      "hours": 4.44,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-10-09T12:41:17Z",
+      "updated_at": "2017-10-09T22:00:23Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 684743714,
+      "notes": "",
+      "spent_at": "2017-10-09",
+      "hours": 1.47,
+      "user_id": 1586352,
+      "project_id": 15234892,
+      "task_id": 7077242,
+      "created_at": "2017-10-09T16:08:59Z",
+      "updated_at": "2017-10-09T19:02:19Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 685188003,
+      "notes": "work on updated version based on Charley's revisions from 10-9, update presentation, meet with Charley to go over both routes and tomorrow's presentation, make revisions based on Charley's updated feedback, update presentation based on Charley's updated feedback",
+      "spent_at": "2017-10-10",
+      "hours": 9.78,
+      "user_id": 1586352,
+      "project_id": 14769368,
+      "task_id": 3507664,
+      "created_at": "2017-10-10T12:42:17Z",
+      "updated_at": "2017-10-10T23:44:54Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 686118415,
+      "notes": "compile final assets to add to shared FC Dropbox",
+      "spent_at": "2017-10-11",
+      "hours": 0.2,
+      "user_id": 1586352,
+      "project_id": 14713142,
+      "task_id": 3507664,
+      "created_at": "2017-10-11T20:36:14Z",
+      "updated_at": "2017-10-11T20:44:55Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 686029492,
+      "notes": "",
+      "spent_at": "2017-10-11",
+      "hours": 0.97,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-10-11T17:47:52Z",
+      "updated_at": "2017-10-11T19:51:10Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 685794282,
+      "notes": "Last few revisions from Charley",
+      "spent_at": "2017-10-11",
+      "hours": 1.27,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-11T11:59:28Z",
+      "updated_at": "2017-10-24T13:49:16Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 685794354,
+      "notes": "Meeting ",
+      "spent_at": "2017-10-11",
+      "hours": 1.5,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-11T11:59:38Z",
+      "updated_at": "2017-10-24T13:49:30Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 685992636,
+      "notes": "meet with Christa, Lisa, David & Charley on next steps",
+      "spent_at": "2017-10-11",
+      "hours": 0.33,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-11T16:44:14Z",
+      "updated_at": "2017-10-24T13:49:42Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 686427307,
+      "notes": "",
+      "spent_at": "2017-10-12",
+      "hours": 0.37,
+      "user_id": 1586352,
+      "project_id": 14747053,
+      "task_id": 3507664,
+      "created_at": "2017-10-12T13:32:08Z",
+      "updated_at": "2017-10-12T18:39:04Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 686524254,
+      "notes": "",
+      "spent_at": "2017-10-12",
+      "hours": 1.4,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-10-12T15:41:28Z",
+      "updated_at": "2017-10-12T21:20:44Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 686427164,
+      "notes": "",
+      "spent_at": "2017-10-12",
+      "hours": 0.28,
+      "user_id": 1586352,
+      "project_id": 15094454,
+      "task_id": 7077242,
+      "created_at": "2017-10-12T13:31:55Z",
+      "updated_at": "2017-10-12T18:38:57Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 686507401,
+      "notes": "search inspiration, set up files, start designing",
+      "spent_at": "2017-10-12",
+      "hours": 3.15,
+      "user_id": 1586352,
+      "project_id": 15286863,
+      "task_id": 3507664,
+      "created_at": "2017-10-12T15:19:55Z",
+      "updated_at": "2017-10-12T21:20:36Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 687060759,
+      "notes": "updating copy",
+      "spent_at": "2017-10-13",
+      "hours": 0.43,
+      "user_id": 1586352,
+      "project_id": 14747053,
+      "task_id": 3507664,
+      "created_at": "2017-10-13T14:28:10Z",
+      "updated_at": "2017-10-13T16:33:15Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 686997462,
+      "notes": "call to discuss next projects",
+      "spent_at": "2017-10-13",
+      "hours": 0.57,
+      "user_id": 1586352,
+      "project_id": 15178300,
+      "task_id": 3507664,
+      "created_at": "2017-10-13T13:10:05Z",
+      "updated_at": "2017-10-13T16:33:11Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 686997563,
+      "notes": "meeting ",
+      "spent_at": "2017-10-13",
+      "hours": 2.5,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-13T13:10:13Z",
+      "updated_at": "2017-10-24T13:50:13Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 687244923,
+      "notes": "meet about which print samples to take, travel to YT meeting ",
+      "spent_at": "2017-10-13",
+      "hours": 0.33,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-13T18:30:42Z",
+      "updated_at": "2017-10-24T13:50:21Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 686997296,
+      "notes": "",
+      "spent_at": "2017-10-13",
+      "hours": 2.73,
+      "user_id": 1586352,
+      "project_id": 15286863,
+      "task_id": 3507664,
+      "created_at": "2017-10-13T13:09:52Z",
+      "updated_at": "2017-10-13T18:36:19Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 688019152,
+      "notes": "",
+      "spent_at": "2017-10-16",
+      "hours": 0.2,
+      "user_id": 1586352,
+      "project_id": 14747053,
+      "task_id": 3507664,
+      "created_at": "2017-10-16T14:41:32Z",
+      "updated_at": "2017-10-16T20:02:53Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 688068966,
+      "notes": "",
+      "spent_at": "2017-10-16",
+      "hours": 0.13,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-10-16T15:29:10Z",
+      "updated_at": "2017-10-16T20:07:47Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 688075811,
+      "notes": "",
+      "spent_at": "2017-10-16",
+      "hours": 1.93,
+      "user_id": 1586352,
+      "project_id": 15059617,
+      "task_id": 3507664,
+      "created_at": "2017-10-16T15:35:57Z",
+      "updated_at": "2017-10-16T21:02:34Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 688319738,
+      "notes": "look into some possible cover ideas, page layouts, games, etc",
+      "spent_at": "2017-10-16",
+      "hours": 0.37,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-16T21:13:09Z",
+      "updated_at": "2017-10-20T21:10:59Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 687907687,
+      "notes": "",
+      "spent_at": "2017-10-16",
+      "hours": 2.63,
+      "user_id": 1586352,
+      "project_id": 15286863,
+      "task_id": 3507664,
+      "created_at": "2017-10-16T12:52:40Z",
+      "updated_at": "2017-10-16T20:09:10Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 688612383,
+      "notes": "internal meeting, meeting with Julia, start looking into cover options",
+      "spent_at": "2017-10-17",
+      "hours": 5.8,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-17T12:46:51Z",
+      "updated_at": "2017-10-20T21:11:09Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 688691278,
+      "notes": "",
+      "spent_at": "2017-10-17",
+      "hours": 0.82,
+      "user_id": 1586352,
+      "project_id": 15286863,
+      "task_id": 3507664,
+      "created_at": "2017-10-17T14:29:12Z",
+      "updated_at": "2017-10-17T17:44:06Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 689516300,
+      "notes": "",
+      "spent_at": "2017-10-18",
+      "hours": 0.4,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-10-18T20:46:31Z",
+      "updated_at": "2017-10-18T21:06:59Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 689239918,
+      "notes": "",
+      "spent_at": "2017-10-18",
+      "hours": 0.42,
+      "user_id": 1586352,
+      "project_id": 15268750,
+      "task_id": 3507664,
+      "created_at": "2017-10-18T13:20:48Z",
+      "updated_at": "2017-10-18T13:52:28Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 689233704,
+      "notes": "mock up cover options to send to Charley, start working on spreads, cover presentation, meeting with Julia and Netta",
+      "spent_at": "2017-10-18",
+      "hours": 5.55,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-18T13:11:52Z",
+      "updated_at": "2017-10-20T21:11:17Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 690012196,
+      "notes": "",
+      "spent_at": "2017-10-19",
+      "hours": 0.77,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-10-19T18:23:35Z",
+      "updated_at": "2017-10-19T21:19:29Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 689813631,
+      "notes": "cover designs, meeting",
+      "spent_at": "2017-10-19",
+      "hours": 5.67,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-19T13:24:29Z",
+      "updated_at": "2017-10-20T21:11:26Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 690372927,
+      "notes": "",
+      "spent_at": "2017-10-20",
+      "hours": 0.12,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-10-20T12:46:37Z",
+      "updated_at": "2017-10-20T19:20:17Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 690519775,
+      "notes": "",
+      "spent_at": "2017-10-20",
+      "hours": 1.61,
+      "user_id": 1586352,
+      "project_id": 15268750,
+      "task_id": 3507664,
+      "created_at": "2017-10-20T15:42:37Z",
+      "updated_at": "2017-10-20T19:39:45Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 690372979,
+      "notes": "",
+      "spent_at": "2017-10-20",
+      "hours": 3.67,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-20T12:46:42Z",
+      "updated_at": "2017-10-24T14:05:24Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 691224802,
+      "notes": "",
+      "spent_at": "2017-10-23",
+      "hours": 0.33,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-10-23T12:54:04Z",
+      "updated_at": "2017-10-23T12:54:04Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 690728069,
+      "notes": "",
+      "spent_at": "2017-10-23",
+      "hours": 0.52,
+      "user_id": 1586352,
+      "project_id": 15268750,
+      "task_id": 3507664,
+      "created_at": "2017-10-20T21:10:17Z",
+      "updated_at": "2017-10-23T13:50:12Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 690730082,
+      "notes": "Call to go over covers/sample spreads, minor cover updates",
+      "spent_at": "2017-10-23",
+      "hours": 2.33,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-20T21:13:16Z",
+      "updated_at": "2017-10-23T20:55:51Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 691283110,
+      "notes": "",
+      "spent_at": "2017-10-23",
+      "hours": 1.1,
+      "user_id": 1586352,
+      "project_id": 15290127,
+      "task_id": 3507664,
+      "created_at": "2017-10-23T13:50:12Z",
+      "updated_at": "2017-10-23T16:40:58Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 692200454,
+      "notes": "background patterns",
+      "spent_at": "2017-10-24",
+      "hours": 1.18,
+      "user_id": 1586352,
+      "project_id": 15059617,
+      "task_id": 3507664,
+      "created_at": "2017-10-24T18:43:06Z",
+      "updated_at": "2017-10-24T20:16:08Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 691945605,
+      "notes": "",
+      "spent_at": "2017-10-24",
+      "hours": 1.92,
+      "user_id": 1586352,
+      "project_id": 15268750,
+      "task_id": 3507664,
+      "created_at": "2017-10-24T12:42:28Z",
+      "updated_at": "2017-10-24T20:31:33Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 691945642,
+      "notes": "",
+      "spent_at": "2017-10-24",
+      "hours": 2.05,
+      "user_id": 1586352,
+      "project_id": 15290127,
+      "task_id": 3507664,
+      "created_at": "2017-10-24T12:42:32Z",
+      "updated_at": "2017-10-24T20:31:16Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 692826601,
+      "notes": "",
+      "spent_at": "2017-10-25",
+      "hours": 0.9,
+      "user_id": 1586352,
+      "project_id": 14784291,
+      "task_id": 3507664,
+      "created_at": "2017-10-25T19:49:39Z",
+      "updated_at": "2017-10-25T21:02:46Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 692819365,
+      "notes": "",
+      "spent_at": "2017-10-25",
+      "hours": 0.42,
+      "user_id": 1586352,
+      "project_id": 14784303,
+      "task_id": 3507664,
+      "created_at": "2017-10-25T19:35:22Z",
+      "updated_at": "2017-10-25T20:01:15Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 692826564,
+      "notes": "",
+      "spent_at": "2017-10-25",
+      "hours": 0.23,
+      "user_id": 1586352,
+      "project_id": 14784324,
+      "task_id": 3507664,
+      "created_at": "2017-10-25T19:49:35Z",
+      "updated_at": "2017-10-25T21:02:52Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 692688966,
+      "notes": "",
+      "spent_at": "2017-10-25",
+      "hours": 1.41,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-10-25T15:50:35Z",
+      "updated_at": "2017-10-25T19:35:17Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 692561893,
+      "notes": "daily call, cover revisions",
+      "spent_at": "2017-10-25",
+      "hours": 1.28,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-25T12:59:46Z",
+      "updated_at": "2017-10-25T15:50:35Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 692561989,
+      "notes": "",
+      "spent_at": "2017-10-25",
+      "hours": 0.12,
+      "user_id": 1586352,
+      "project_id": 15290127,
+      "task_id": 3507664,
+      "created_at": "2017-10-25T12:59:56Z",
+      "updated_at": "2017-10-25T18:45:17Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 693192196,
+      "notes": "",
+      "spent_at": "2017-10-26",
+      "hours": 0.93,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-10-26T13:44:45Z",
+      "updated_at": "2017-10-26T17:04:36Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 693280597,
+      "notes": "",
+      "spent_at": "2017-10-26",
+      "hours": 4.4,
+      "user_id": 1586352,
+      "project_id": 15211541,
+      "task_id": 3507664,
+      "created_at": "2017-10-26T15:38:00Z",
+      "updated_at": "2017-10-26T21:13:49Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 693182151,
+      "notes": "",
+      "spent_at": "2017-10-26",
+      "hours": 0.22,
+      "user_id": 1586352,
+      "project_id": 15268750,
+      "task_id": 3507664,
+      "created_at": "2017-10-26T13:30:44Z",
+      "updated_at": "2017-10-26T14:16:40Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 693230781,
+      "notes": "call w. Julia",
+      "spent_at": "2017-10-26",
+      "hours": 0.58,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-26T14:35:14Z",
+      "updated_at": "2017-10-26T15:38:00Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 693775374,
+      "notes": "",
+      "spent_at": "2017-10-27",
+      "hours": 0.38,
+      "user_id": 1586352,
+      "project_id": 14888648,
+      "task_id": 3507664,
+      "created_at": "2017-10-27T12:58:13Z",
+      "updated_at": "2017-11-01T20:11:18Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 694053853,
+      "notes": "",
+      "spent_at": "2017-10-27",
+      "hours": 1.3,
+      "user_id": 1586352,
+      "project_id": 15010618,
+      "task_id": 3507664,
+      "created_at": "2017-10-27T18:00:37Z",
+      "updated_at": "2017-10-27T19:24:23Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 694126421,
+      "notes": "helping proofread",
+      "spent_at": "2017-10-27",
+      "hours": 1.07,
+      "user_id": 1586352,
+      "project_id": 15211541,
+      "task_id": 3507664,
+      "created_at": "2017-10-27T20:01:35Z",
+      "updated_at": "2017-10-27T20:53:23Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 693775450,
+      "notes": "",
+      "spent_at": "2017-10-27",
+      "hours": 0.63,
+      "user_id": 1586352,
+      "project_id": 15268750,
+      "task_id": 3507664,
+      "created_at": "2017-10-27T12:58:19Z",
+      "updated_at": "2017-10-27T19:24:27Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 693844390,
+      "notes": "",
+      "spent_at": "2017-10-27",
+      "hours": 0.2,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-27T14:23:57Z",
+      "updated_at": "2017-10-27T14:33:10Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 694127316,
+      "notes": "",
+      "spent_at": "2017-10-27",
+      "hours": 0.53,
+      "user_id": 1586352,
+      "project_id": 15408566,
+      "task_id": 3507664,
+      "created_at": "2017-10-27T20:02:50Z",
+      "updated_at": "2017-10-27T20:02:50Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 695060767,
+      "notes": "package design files for CEO Council",
+      "spent_at": "2017-10-30",
+      "hours": 0.53,
+      "user_id": 1586352,
+      "project_id": 15178300,
+      "task_id": 3507664,
+      "created_at": "2017-10-30T17:13:07Z",
+      "updated_at": "2017-10-30T20:44:21Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 694882015,
+      "notes": "call with Julia/Netta, word search, coloring book page",
+      "spent_at": "2017-10-30",
+      "hours": 2.45,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-30T14:57:50Z",
+      "updated_at": "2017-10-30T20:44:36Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 694729955,
+      "notes": "",
+      "spent_at": "2017-10-30",
+      "hours": 2.6,
+      "user_id": 1586352,
+      "project_id": 15408566,
+      "task_id": 3507664,
+      "created_at": "2017-10-30T12:44:07Z",
+      "updated_at": "2017-10-30T20:44:32Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 694993343,
+      "notes": "",
+      "spent_at": "2017-10-30",
+      "hours": 0.15,
+      "user_id": 1586352,
+      "project_id": 15408566,
+      "task_id": 3507664,
+      "created_at": "2017-10-30T16:19:05Z",
+      "updated_at": "2017-11-01T20:10:46Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 696074831,
+      "notes": "",
+      "spent_at": "2017-10-31",
+      "hours": 1.38,
+      "user_id": 1586352,
+      "project_id": 15059617,
+      "task_id": 3507664,
+      "created_at": "2017-10-31T20:06:39Z",
+      "updated_at": "2017-10-31T21:10:10Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 695700382,
+      "notes": "cover revisions, tote bag, presentation updates",
+      "spent_at": "2017-10-31",
+      "hours": 2.77,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-10-31T13:18:52Z",
+      "updated_at": "2017-10-31T20:05:20Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 695968512,
+      "notes": "",
+      "spent_at": "2017-10-31",
+      "hours": 0.1,
+      "user_id": 1586352,
+      "project_id": 15408566,
+      "task_id": 3507664,
+      "created_at": "2017-10-31T17:37:01Z",
+      "updated_at": "2017-10-31T17:39:33Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 696420351,
+      "notes": "",
+      "spent_at": "2017-11-01",
+      "hours": 4.21,
+      "user_id": 1586352,
+      "project_id": 15059617,
+      "task_id": 3507664,
+      "created_at": "2017-11-01T12:53:43Z",
+      "updated_at": "2017-11-01T18:58:13Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 696480561,
+      "notes": "",
+      "spent_at": "2017-11-01",
+      "hours": 0.18,
+      "user_id": 1586352,
+      "project_id": 15408566,
+      "task_id": 3507664,
+      "created_at": "2017-11-01T14:08:42Z",
+      "updated_at": "2017-11-01T20:10:21Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 696614018,
+      "notes": "",
+      "spent_at": "2017-11-01",
+      "hours": 1.32,
+      "user_id": 1586352,
+      "project_id": 15408566,
+      "task_id": 3507664,
+      "created_at": "2017-11-01T16:30:07Z",
+      "updated_at": "2017-11-01T21:03:12Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 697282498,
+      "notes": "pencil tin",
+      "spent_at": "2017-11-02",
+      "hours": 0.87,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-11-02T16:58:33Z",
+      "updated_at": "2017-11-02T20:46:31Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 696769028,
+      "notes": "",
+      "spent_at": "2017-11-02",
+      "hours": 0.88,
+      "user_id": 1586352,
+      "project_id": 15408566,
+      "task_id": 3507664,
+      "created_at": "2017-11-01T20:17:47Z",
+      "updated_at": "2017-11-02T19:58:26Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 696769193,
+      "notes": "",
+      "spent_at": "2017-11-02",
+      "hours": 2.53,
+      "user_id": 1586352,
+      "project_id": 15471410,
+      "task_id": 3507664,
+      "created_at": "2017-11-01T20:18:05Z",
+      "updated_at": "2017-11-02T19:10:41Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 696769101,
+      "notes": "",
+      "spent_at": "2017-11-02",
+      "hours": 0.85,
+      "user_id": 1586352,
+      "project_id": 15471447,
+      "task_id": 3507664,
+      "created_at": "2017-11-01T20:17:55Z",
+      "updated_at": "2017-11-02T20:46:37Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 697730946,
+      "notes": "",
+      "spent_at": "2017-11-03",
+      "hours": 2.6,
+      "user_id": 1586352,
+      "project_id": 15059617,
+      "task_id": 3507664,
+      "created_at": "2017-11-03T12:49:36Z",
+      "updated_at": "2017-11-03T21:02:03Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 697731161,
+      "notes": "",
+      "spent_at": "2017-11-03",
+      "hours": 0.2,
+      "user_id": 1586352,
+      "project_id": 15471410,
+      "task_id": 3507664,
+      "created_at": "2017-11-03T12:49:57Z",
+      "updated_at": "2017-11-03T13:52:13Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 697731214,
+      "notes": "",
+      "spent_at": "2017-11-03",
+      "hours": 0.37,
+      "user_id": 1586352,
+      "project_id": 15471447,
+      "task_id": 3507664,
+      "created_at": "2017-11-03T12:50:02Z",
+      "updated_at": "2017-11-03T13:44:24Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 697792718,
+      "notes": "",
+      "spent_at": "2017-11-03",
+      "hours": 1.8,
+      "user_id": 1586352,
+      "project_id": 15495715,
+      "task_id": 3507664,
+      "created_at": "2017-11-03T14:14:11Z",
+      "updated_at": "2017-11-03T17:33:53Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 698074138,
+      "notes": "",
+      "spent_at": "2017-11-03",
+      "hours": 0.24,
+      "user_id": 1586352,
+      "project_id": 15501494,
+      "task_id": 3507664,
+      "created_at": "2017-11-03T20:17:56Z",
+      "updated_at": "2017-11-03T20:28:02Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 698711749,
+      "notes": "",
+      "spent_at": "2017-11-06",
+      "hours": 3.32,
+      "user_id": 1586352,
+      "project_id": 15059617,
+      "task_id": 3507664,
+      "created_at": "2017-11-06T15:06:05Z",
+      "updated_at": "2017-11-06T21:44:02Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 698749293,
+      "notes": "",
+      "spent_at": "2017-11-06",
+      "hours": 0.43,
+      "user_id": 1586352,
+      "project_id": 15211541,
+      "task_id": 3507664,
+      "created_at": "2017-11-06T15:39:31Z",
+      "updated_at": "2017-11-06T16:05:32Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 698950312,
+      "notes": "find image",
+      "spent_at": "2017-11-06",
+      "hours": 0.1,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-11-06T19:19:37Z",
+      "updated_at": "2017-11-06T19:32:21Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 698814111,
+      "notes": "original IdeaPaint catalog revisions",
+      "spent_at": "2017-11-06",
+      "hours": 0.24,
+      "user_id": 1586352,
+      "project_id": 15471410,
+      "task_id": 3507664,
+      "created_at": "2017-11-06T16:38:36Z",
+      "updated_at": "2017-11-06T18:51:50Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 698819142,
+      "notes": "",
+      "spent_at": "2017-11-06",
+      "hours": 0.48,
+      "user_id": 1586352,
+      "project_id": 15471447,
+      "task_id": 3507664,
+      "created_at": "2017-11-06T16:43:38Z",
+      "updated_at": "2017-11-06T18:45:08Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 698984914,
+      "notes": "",
+      "spent_at": "2017-11-06",
+      "hours": 0.87,
+      "user_id": 1586352,
+      "project_id": 15501494,
+      "task_id": 3507664,
+      "created_at": "2017-11-06T20:09:46Z",
+      "updated_at": "2017-11-06T22:14:23Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 699529792,
+      "notes": "bookmark revisions, tins, coloring book page",
+      "spent_at": "2017-11-07",
+      "hours": 1.43,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-11-07T17:04:25Z",
+      "updated_at": "2017-11-07T21:45:44Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 699614371,
+      "notes": "moving sign updates",
+      "spent_at": "2017-11-07",
+      "hours": 0.2,
+      "user_id": 1586352,
+      "project_id": 15467043,
+      "task_id": 3507664,
+      "created_at": "2017-11-07T19:13:22Z",
+      "updated_at": "2017-11-07T21:45:52Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 699437567,
+      "notes": "",
+      "spent_at": "2017-11-07",
+      "hours": 0.72,
+      "user_id": 1586352,
+      "project_id": 15471410,
+      "task_id": 3507664,
+      "created_at": "2017-11-07T15:20:41Z",
+      "updated_at": "2017-11-07T16:07:29Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 699642040,
+      "notes": "",
+      "spent_at": "2017-11-07",
+      "hours": 0.63,
+      "user_id": 1586352,
+      "project_id": 15501494,
+      "task_id": 3507664,
+      "created_at": "2017-11-07T20:01:47Z",
+      "updated_at": "2017-11-07T21:45:56Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 699383577,
+      "notes": "",
+      "spent_at": "2017-11-07",
+      "hours": 1.08,
+      "user_id": 1586352,
+      "project_id": 15523268,
+      "task_id": 7077242,
+      "created_at": "2017-11-07T14:14:46Z",
+      "updated_at": "2017-11-07T15:20:42Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 700006026,
+      "notes": "bookmarks, tins",
+      "spent_at": "2017-11-08",
+      "hours": 0.32,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-11-08T13:59:02Z",
+      "updated_at": "2017-11-08T20:18:38Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 700006152,
+      "notes": "moving sign updates",
+      "spent_at": "2017-11-08",
+      "hours": 0.2,
+      "user_id": 1586352,
+      "project_id": 15467043,
+      "task_id": 3507664,
+      "created_at": "2017-11-08T13:59:15Z",
+      "updated_at": "2017-11-08T16:11:41Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 700260536,
+      "notes": "2 pager update",
+      "spent_at": "2017-11-08",
+      "hours": 0.17,
+      "user_id": 1586352,
+      "project_id": 15471410,
+      "task_id": 3507664,
+      "created_at": "2017-11-08T20:19:14Z",
+      "updated_at": "2017-11-08T20:19:18Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 700285561,
+      "notes": "",
+      "spent_at": "2017-11-08",
+      "hours": 0.12,
+      "user_id": 1586352,
+      "project_id": 15471447,
+      "task_id": 3507664,
+      "created_at": "2017-11-08T21:05:51Z",
+      "updated_at": "2017-11-08T21:08:57Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 700082464,
+      "notes": "",
+      "spent_at": "2017-11-08",
+      "hours": 2.2,
+      "user_id": 1586352,
+      "project_id": 15495715,
+      "task_id": 3507664,
+      "created_at": "2017-11-08T15:42:58Z",
+      "updated_at": "2017-11-08T20:41:56Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 700006303,
+      "notes": "place cards",
+      "spent_at": "2017-11-08",
+      "hours": 2.52,
+      "user_id": 1586352,
+      "project_id": 15501494,
+      "task_id": 3507664,
+      "created_at": "2017-11-08T13:59:31Z",
+      "updated_at": "2017-11-08T20:59:31Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 700711045,
+      "notes": "business card updates",
+      "spent_at": "2017-11-09",
+      "hours": 0.6,
+      "user_id": 1586352,
+      "project_id": 14008716,
+      "task_id": 3507664,
+      "created_at": "2017-11-09T16:21:01Z",
+      "updated_at": "2017-11-10T13:57:07Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 700881264,
+      "notes": "",
+      "spent_at": "2017-11-09",
+      "hours": 1.42,
+      "user_id": 1586352,
+      "project_id": 15059617,
+      "task_id": 3507664,
+      "created_at": "2017-11-09T21:05:35Z",
+      "updated_at": "2017-11-09T22:00:51Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 700767064,
+      "notes": "pencil tin, coloring page",
+      "spent_at": "2017-11-09",
+      "hours": 1.29,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-11-09T17:36:21Z",
+      "updated_at": "2017-11-09T20:34:53Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 700621964,
+      "notes": "new 1 pager",
+      "spent_at": "2017-11-09",
+      "hours": 1.18,
+      "user_id": 1586352,
+      "project_id": 15471410,
+      "task_id": 3507664,
+      "created_at": "2017-11-09T14:30:05Z",
+      "updated_at": "2017-11-09T15:59:36Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 700620850,
+      "notes": "",
+      "spent_at": "2017-11-09",
+      "hours": 0.12,
+      "user_id": 1586352,
+      "project_id": 15501494,
+      "task_id": 3507664,
+      "created_at": "2017-11-09T14:28:29Z",
+      "updated_at": "2017-11-09T14:28:29Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 701226052,
+      "notes": "business cards",
+      "spent_at": "2017-11-10",
+      "hours": 0.38,
+      "user_id": 1586352,
+      "project_id": 14008716,
+      "task_id": 3507664,
+      "created_at": "2017-11-10T13:56:59Z",
+      "updated_at": "2017-11-10T20:02:15Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 701218956,
+      "notes": "",
+      "spent_at": "2017-11-10",
+      "hours": 0.12,
+      "user_id": 1586352,
+      "project_id": 15059617,
+      "task_id": 3507664,
+      "created_at": "2017-11-10T13:45:27Z",
+      "updated_at": "2017-11-10T13:54:27Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 701288294,
+      "notes": "image sourcing",
+      "spent_at": "2017-11-10",
+      "hours": 2.12,
+      "user_id": 1586352,
+      "project_id": 15277838,
+      "task_id": 3507664,
+      "created_at": "2017-11-10T15:18:15Z",
+      "updated_at": "2017-11-10T21:10:56Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 701218888,
+      "notes": "update PULL image",
+      "spent_at": "2017-11-10",
+      "hours": 0.27,
+      "user_id": 1586352,
+      "project_id": 15408566,
+      "task_id": 3507664,
+      "created_at": "2017-11-10T13:45:19Z",
+      "updated_at": "2017-11-10T14:47:55Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 701225715,
+      "notes": "update magnets",
+      "spent_at": "2017-11-10",
+      "hours": 0.32,
+      "user_id": 1586352,
+      "project_id": 15471410,
+      "task_id": 3507664,
+      "created_at": "2017-11-10T13:56:26Z",
+      "updated_at": "2017-11-10T14:17:35Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  },
+  {
+    "day_entry": {
+      "id": 701225883,
+      "notes": "update PULL image",
+      "spent_at": "2017-11-10",
+      "hours": 0.25,
+      "user_id": 1586352,
+      "project_id": 15471447,
+      "task_id": 3507664,
+      "created_at": "2017-11-10T13:56:42Z",
+      "updated_at": "2017-11-10T16:20:07Z",
+      "adjustment_record": false,
+      "timer_started_at": null,
+      "is_closed": false,
+      "is_billed": false
+    }
+  }
+]
