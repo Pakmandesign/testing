@@ -10,7 +10,7 @@
 
 var dataPool = [];
 var dataForChart = [];
-// var base = "";
+var base = "";
 
 $(document).ready(function(){
 
