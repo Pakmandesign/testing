@@ -10,12 +10,12 @@
 
 var dataPool = [];
 var dataForChart = [];
-var base = "";
+var base = "/harvest/";
 
 $(document).ready(function(){
 
 
-	if (window.location.pathname === base+"/callback.html" ) {
+	if (window.location.pathname === base+"callback.html" ) {
 		var authArray = window.location.search.split("&");
 		accessToken = authArray[0].split("=")[1];
 		console.log(accessToken);
@@ -52,7 +52,7 @@ $(document).ready(function(){
 		$.ajax({
 
 			  type: 'GET',
-			  url: 'https://id.getharvest.com/api/v1/accounts',
+			  url: 'https://api.harvestapp.com/v2/tasks?page=2&per_page=10',
 			  crossDomain: true,
 			  dataType: "json",
 			  // async: true,
