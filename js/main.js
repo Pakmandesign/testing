@@ -10,12 +10,12 @@
 
 var dataPool = [];
 var dataForChart = [];
-var base = "/harvest/";
+// var base = "";
 
 $(document).ready(function(){
 
 
-	if (window.location.pathname === base+"callback.html" ) {
+	if (window.location.pathname === base+"/callback.html" ) {
 		var authArray = window.location.search.split("&");
 		accessToken = authArray[0].split("=")[1];
 		console.log(accessToken);
