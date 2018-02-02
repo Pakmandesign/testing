@@ -15,12 +15,51 @@ var base = "/harvest/";
 $(document).ready(function(){
 
 
-	if (window.location.pathname === base+"callback.html" ) {
-		var authArray = window.location.search.split("&");
-		accessToken = authArray[0].split("=")[1];
+	if (window.location.pathname === base+"callback" ) {
+		// var authArray = window.location.search.split("&");
+		var authArray = window.location.hash.split("#access_token=");
+
+		accessToken = authArray[1].split("&")[0];
 		console.log(accessToken);
 		localStorage.setItem('accessToken', accessToken);
-		window.location.replace(base+"graph.html");
+		window.location.replace(base+"welcome");
+	}
+
+
+	if (window.location.pathname === base+"welcome" ) {
+
+		$.ajax({
+
+			  type: 'GET',
+			  url: 'https://c42d.harvestapp.com/people',
+			  crossDomain: true,
+			  dataType: "json",
+			  headers: {
+
+			  	"Authorization": 'Basic ' + localStorage.getItem('accessToken'),
+			  	"Accept": "application/json",
+			  	"Content-Type": "application/json",
+			  	// "Harvest-Account-Id": "427079"
+			  	// "User-Agent" : "billable"
+			  },
+			  error:function(err) {
+			  	/* Act on the event */
+			  	console.log(err.responseText); 	
+			  },
+			  success: function(data){
+
+			 	console.log(data); 	
+			 	var source   = document.getElementById("student-template").innerHTML;
+			 	var template = Handlebars.compile(source);
+			 	var result = template(data);
+	
+			 	$('.user-pool').html(result);
+			 	$('.user-pool')
+
+			 }
+
+		});
+
 	}
 
 
@@ -28,7 +67,9 @@ $(document).ready(function(){
 
 
 		event.preventDefault();
-		window.location.href = 'https://id.getharvest.com/oauth2/authorize?client_id=QFImuBSExrux_CCAQSpKMxWA&response_type=token';
+		// window.location.href = 'https://id.getharvest.com/oauth2/authorize?client_id=QFImuBSExrux_CCAQSpKMxWA&response_type=token';
+		window.location.href = 'https://c42d.harvestapp.com/oauth2/authorize?client_id=GrlqatH0ikb77cpPv82Yng&redirect_uri=' + encodeURI('http://localhost:8888/harvest/callback') + '&state=optional-csrf-token&response_type=token';
+
 
 	});
 
@@ -52,17 +93,16 @@ $(document).ready(function(){
 		$.ajax({
 
 			  type: 'GET',
-			  url: 'https://api.harvestapp.com/v2/tasks?page=2&per_page=10',
+			  url: 'https://api.harvestapp.com/v2/time_entries?user_id=1586352&from=20171220&to=20171231&billable=yes',
 			  crossDomain: true,
 			  dataType: "json",
-			  // async: true,
-			  beforeSend: function(xhr) {
+			  headers: {
 
-			  	xhr.setRequestHeader('Authorization', 'Bearer ' + accessToken);
-
-			  	// xhr.setRequestHeader('User-Agent', 'billable')
-
-
+			  	"Authorization": 'Basic ' + localStorage.getItem('accessToken'),
+			  	"Accept": "application/json",
+			  	"Content-Type": "application/json",
+			  	"Harvest-Account-Id": "427079"
+			  	// "User-Agent" : "billable"
 			  },
 			  error:function(err) {
 			  	/* Act on the event */
